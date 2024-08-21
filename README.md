@@ -60,6 +60,9 @@ sh train.sh
 1. Determine harmony weight
 
 ```bash
+cd mbert
+python weight.py
+cd ../xlm
 python weight.py
 ```
 
