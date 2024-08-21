@@ -1,0 +1,30 @@
+arb_Arab: في يوم الاثنين، أعلن علماء من كلية الطب بجامعة ستانفورد عن اختراع أداة تشخيصية جديدة يمكنها تصنيف الخلايا حسب النوع: شريحة صغيرة قابلة للطباعة يمكن تصنيعها باستخدام طابعات نفاثة للحبر قياسية مقابل حوالي سنت أمريكي واحد لكل منها.
+quy_Latn: Killachaw punchawpi, Facultad de Medicina Stanford hatun yachaywasimanta cientificokunami nimunku chay rikurichiy musuq qawapayay llankanamanta, celulakunapa rikchayninman sapankaqninmanta: huk huchuy chip imprimible nisqa rurakuyta atikullanmi impresora de inyección de tinta estandar nisqawan, huk centavo EE.UU. suyumanta dolarllawan sapankanta.
+
+arb_Arab: يقول الباحثون الرئيسيون أن هذا قد يؤدي إلى الكشف المبكر للسرطان والسل وفيروس العوز المناعي البشري والملاريا في البلدان ذوات الدخل المنخفض، والتي تكون فيها معدلات النجاة من الأمراض مثل سرطان الصدر نصف معدلات البلدان الأغنى.
+quy_Latn: Yupaychasqa kuskiqkuna ninkun isku unquy manaraq rikhurichkaptinqa kaymanmi apanman, surqan unquyqa, VIH hinallataq chukchu unquypas hinallataq aswan pisi qulliyuq suyukuna, ñuñu isku unquyniyuq kankuman yaqapas kusqan atipaq suyukunamantaqa.
+
+arb_Arab: تحطمت طائرة جاس-٣٩ غربين على مدرج في حوالي الساعة ٩:٣٠ صباحاً بالتوقيت المحلي (٠٢٣٠ التوقيت العالمي الموحّد) وانفجرت، مما أدى إلى إغلاق المطار أمام الرحلات الجوية التجارية.
+quy_Latn: JAS 39C Gripen takakuran pista nisqaman, yaqapas 9:30 tutamantanta llaqta pacha (0230 tiqsimuyu pacha rimanakusqa) pataran, aeropuertota wichqaspa rantiy palaqkunapaq.
+
+arb_Arab: تم التعرف على هوية الطيار وهي "ديلوكريت باتافي" قائد سرب الطائرات.
+quy_Latn: Wanpuq runaqa umalliqhina Dilokrit Pattavee Escuadronmanta riqsisqa kasqa.
+
+arb_Arab: أعلنت وسائل الإعلام المحلية عن انقلاب إحدى سيارات الإطفاء أثناء توجهها لإطفاء الحريق.
+quy_Latn: Llaqtapi hampi kamayuqkuna willakamunku huk bombero carrupi aeropuertomanta wikchurakapusqa rimamusaq.
+
+arb_Arab: انضم فيدال والذي يبلغ من العمر 28 عاماً إلى نادي برشلونة قبل ثلاثة مواسم، قادماً من نادي إشبيلية.
+quy_Latn: Vidal, 28 watayuq, Barçaman chayarqan yaqapas kimsa taqa ñawpaqtaraq, Sevilla llaqtamanta.
+
+arb_Arab: منذ الانتقال إلى العاصمة الكتالونية، لعب فيدال 49 مباراة للنادي.
+quy_Latn: Catalan mama llaqtaman astakusqanmanta pacha, vidal pukllarqan 49 pukllaypi club nisqawan.
+
+arb_Arab: بدأ الاحتجاج حوالي الساعة 11:00 بالتوقيت المحلي (UTC+1) في "وايتهول" في الاتجاه المقابل لشارع "داونينج" الذي تحرسه الشرطة وهو المقر الرسمي لرئيس الوزراء.
+quy_Latn: Qapariywan mañakuysi qallarisqa 11:00 urapi (UTC+1) Whitehall nisqankupi, policíawan qawasqa yaykuna Downing Street nisqankupa chimpanpi, Ñawpaq Ministropa yachanan puni.
+
+arb_Arab: بعد الساعة 11:00 بقليل، قطع المتظاهرون حركة المرور في الطريق المتجه شمالاً في وايتهول.
+quy_Latn: Chunkahukniyuq qipachallanman (11:00), sayariqkuna wichqarqanku chinchayman riq ñankunata, Whitehallpi.
+
+arb_Arab: طلبت الشرطة عند الساعة 11:20 من المحتجين العودة إلى الرصيف، مبينّة أنه يجب عليهم الموازنة بين الحق في التظاهر مع ازدياد الحركة المرورية.
+quy_Latn: 11:20 yupay pachapis, policía mañasqa qapariywan mañakuqkunata anchunankupaq hatun ñan pataman, chaynallataq yupaychanankupaq qapariywan mañakuyninkuta karrukuna muntukusqankuwan paykuna rayku.
+

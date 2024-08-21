@@ -1,0 +1,30 @@
+arb_Arab: أتيت لتكون ضيفا.
+cdo_Latn: Nī-lāi gāu-kì bîng-i
+
+arb_Arab: جئت لأجدك.
+cdo_Latn: Góa-lāi ka-lí
+
+arb_Arab: ماذا تريد أن تأكل؟
+cdo_Latn: Ní-ài-sióng siáⁿ-mih
+
+arb_Arab: أحب أكل اللحوم.
+cdo_Latn: Góa-ài-sióng siáⁿ-kàu
+
+arb_Arab: أين تريد أن تذهب؟
+cdo_Latn: Ní-ài-sióng khì-nāu
+
+arb_Arab: أحب أن أذهب إلى الشاطئ.
+cdo_Latn: Góa-ài-sióng khì-hái-piān
+
+arb_Arab: ماذا تريد ان تشاهد؟
+cdo_Latn: Ní-ài-sióng sióng-beh mih
+
+arb_Arab: أحب مشاهدة الأفلام.
+cdo_Latn: Góa-ài-sióng sióng-beh diàn-siāⁿ
+
+arb_Arab: ماذا تستطيع ان تتحدث؟
+cdo_Latn: Ní-óng-bái mih
+
+arb_Arab: أستطيع أن أتكلم مين دونغ.
+cdo_Latn: Góa-óng-bái Min-Dong-gí
+

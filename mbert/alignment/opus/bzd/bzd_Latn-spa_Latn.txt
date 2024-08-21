@@ -1,0 +1,29 @@
+bzd_Latn: Ye' shkèxnã bua'ë.
+spa_Latn: Yo amanecí muy bien.
+
+bzd_Latn: Ye' dör bikâkala.
+spa_Latn: Yo soy maestro de ceremonias.
+
+bzd_Latn: Ìs a' shkèxnã?
+spa_Latn: Como amanecieron ustedes?
+
+bzd_Latn: Sa' shkèxnã bua'ë.
+spa_Latn: Nosotros amanecimos muy bien.
+
+bzd_Latn: Ìs be' shkèxnã?
+spa_Latn: Como amaneció usted?
+
+bzd_Latn: Ye' shkèxnã bua'ë.
+spa_Latn: Yo amanecí muy bien.
+
+bzd_Latn: Ye' dör Juan.
+spa_Latn: Yo soy Juan.
+
+bzd_Latn: Íxmã be' kie?
+spa_Latn: Cómo se llama usted?
+
+bzd_Latn: Ye' kie Juan.
+spa_Latn: Yo me llamo Juan.
+
+bzd_Latn: Be' kie ye' kie e's.
+spa_Latn: Yo me llamo como usted se llama.

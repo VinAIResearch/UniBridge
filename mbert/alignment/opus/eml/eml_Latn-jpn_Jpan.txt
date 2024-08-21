@@ -1,0 +1,30 @@
+jpn_Jpan: 良い一日！
+eml_Latn: Boun dì!
+
+jpn_Jpan: あなたの名前は何ですか？
+eml_Latn: Come te ciàmet?
+
+jpn_Jpan: 元気ですか？
+eml_Latn: Come stè?
+
+jpn_Jpan: 元気です ありがとう。
+eml_Latn: Stò bèin, grazie.
+
+jpn_Jpan: エミリアン・ロマニョール語を話せますか?
+eml_Latn: Conòsset l'Emilian-Romagnol?
+
+jpn_Jpan: エミリアン・ロマニョールについては少し理解できました。
+eml_Latn: Capìsc un pôc d'Emilian-Romagnol.
+
+jpn_Jpan: エミリアン・ロマニョールを学ぶことに興味がありますか?
+eml_Latn: Sê interessè a imparèr l'Emilian-Romagnol?
+
+jpn_Jpan: ちょっと興味があります。
+eml_Latn: Sê un pôc interessè.
+
+jpn_Jpan: エミリアン・ロマニョール語のフレーズをいくつか教えていただけますか?
+eml_Latn: Puoi insegnarme qualche frase in l'Emilian-Romagnol?
+
+jpn_Jpan: エミリアン・ロマニョールは簡単ではありませんが、学ぶのは楽しいです。
+eml_Latn: L'Emilian-Romagnol l'è mia facil, ma l'è divertent da imparer.
+

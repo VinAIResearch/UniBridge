@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+khm_Khmr: កាល​ពី​ថ្ងៃ​ច័ន្ទ អ្នកវិទ្យាសាស្ត្រ​មក​ពី​សាលា​វេជ្ជសាស្ត្រ​នៃ​សាកល​វិទ្យាល័យ ស្តែន​ហ្វ័ឌ (Stanford University School of Medicine) បាន​ប្រកាស​ពី​ការបង្កើត​ឧបករណ៍​ធ្វើ​រោគ​វិនិច្ឆ័យ​ថ្មី​មួយ ដែល​អាច​តម្រៀប​កោសិកា​តាម​ប្រភេទ៖ បន្ទះ​ឈីប​ដែល​អាច​ព្រីន​បាន​ដ៏​តូច​មួយ ដែល​អាច​ផលិត​ដោយ​ប្រើ​ម៉ាស៊ីន​ព្រីន​ប្រភេទinkjectស្តង់ដារ ដែល​មាន​តម្លៃ​ប្រហែល​មួយ​សេន​សហរដ្ឋអាមេរិក។
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+khm_Khmr: ប្រធាន​ក្រុមស្រាវ​ជ្រាវ​និយាយ​ថា​ នេះ​អាច​នាំ​មក​នូវ​ការចាប់​បាន​នូវ​រោគ​មហារីក រោគរបេង​ វីរុស​ HIV និង​ជំងឺគ្រុន​ចាញ់​បាន​តាំង​ពី​ដើម​ទីពីអ្នក​ជំងឺ​នៅ​ក្នុង​ប្រទេស​ដែល​មាន​ប្រាក់​ចំណូល​ទាប​ ដែលនៅ​ក្នុង​ប្រទេស​នេះ ​អត្រា​នៃ​ការ​រស់​រាន​ពី​ជំងឺ​ផ្សេង​ៗ​ ដូច​ជា​មហារីកដោះ អាច​មាន​ត្រឹម​ពាក់កណ្ដាល​នៃ​ប្រទេស​អ្នក​មាន​ប៉ុណ្ណោះ​។​
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+khm_Khmr: យន្តហោះ JAS 39C Gripen បាន​ធ្លាក់​នៅលើផ្លូវរត់នៅម៉ោងប្រហែល 9: 30 នាទីព្រឹក ម៉ោង​ក្នុង​ស្រុក (02: 30 UTC) ហើយ​បាន​ផ្ទុះ​ឡើង ដោយ​បាន​បិទ​អាកាស​យានដ្ឋាន​សម្រាប់​ជើង​ហោះហើរ​ពាណិជ្ជកម្ម​។
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+khm_Khmr: អ្ន​ក​បើក​យន្ត​ហោះ​នោះត្រូវ​បាន​គេ​កំណត់​អត្តសញ្ញាណ​បាន​ថា​ឈ្មោះ​ Squadron Leader Dilokrit Pattavee។
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+khm_Khmr: សារព័ត៌មានក្នុងស្រុករាយការណ៍ថាអាកាសយានដ្ឋានមួយកន្លែងត្រូវភ្លើងឆេះរថយន្តពន្លត់អគ្គិភ័យកំពុងអន្តរាគមន៍។
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+khm_Khmr: អាយុ 28 ឆ្នាំ វីដាល (Vidal) បានចូលរួមជាមួយក្រុមបាកា (Barça) កាលពីបីរដូវកាលមុន ដោយចេញពីក្រុមសេវីឡា (Sevilla) ។
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+khm_Khmr: ចាប់តាំងពីផ្លាស់ទៅរដ្ឋធានីកាតាឡាន វីដល (Vidal) បានលេងចំនួន 49 ប្រកួតឱ្យក្លឹប។
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+khm_Khmr: ការតវ៉ាបានចាប់ផ្តើមនៅប្រមាណជាម៉ោង 11 និង 00 នាទីម៉ោងនៅក្នុងស្រុក (ត្រូវនឹងម៉ោង 1 សកល) នៅវិថីវ៉ៃហល (Whitehall) ទល់មុខច្រកចូលដែលយាមល្បាតដោយប៉ូលីស ឆ្ពោះទៅកាន់វិថីដោននីង (Downing) ដែលជាកន្លែងស្នាក់ការរបស់នាយករដ្ឋមន្ត្រី។
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+khm_Khmr: បន្ទាប់ពីម៉ោង 11:00 ក្រុមអ្នកតវ៉ាបានបិទច​រាចរណ៍នៅលើផ្លូវទៅទិសខាងជើង ក្នុង  វ៉ៃថ៍ហល(Whitehall)។
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+khm_Khmr: នៅម៉ោង 11:20 ប៉ូលីសបានស្នើឲ្យ​​ក្រុមអ្នក​តវ៉ា​ ​​វិលត្រឡប់​ទៅលើទីលាន​ក្រាល​ថ្មវិញ ដោយបញ្ជាក់ថា ពួកគេ​ត្រូវថ្លឹងថ្លែងសិទ្ធិក្នុងការតវ៉ាជាមួយ​នឹងការធ្វើឲ្យ​កក​ស្ទះ​ចរាចរណ៍។
+

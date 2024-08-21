@@ -1,0 +1,30 @@
+arb_Arab: نوياي 20000 ميل هوراتيبي وينوا.
+shp_Latn: Vuela más de 20 000 millas por hora.
+
+arb_Arab: Jainra ikatiai kikin icha xobo kopimabo.
+shp_Latn: La mayor parte de la zona estaba llena de casas baratas.
+
+arb_Arab: 5 مليون دولار بيل جيتسنين.
+shp_Latn: Bill Gates nos donó 5 millones $.
+
+arb_Arab: الناتو الحيوي akai yoinabo manish meran ikatikanai keska akin.
+shp_Latn: Los biomas simulan los entornos de vida natural de los animales.
+
+arb_Arab: يوميتسوبوان كيماريكي أوتشيتيبو.
+shp_Latn: A los ladrones no les gustan los perros.
+
+arb_Arab: Beboinra bochoaxra، onanti ikai jatsan.
+shp_Latn: Si hay una sobrecarga, hay un ruido que la acompaña.
+
+arb_Arab: في شينانارا جا إيكونما إيكي.
+shp_Latn: No creo que eso sea cierto.
+
+arb_Arab: Santora ika iki menonakekian koiranainko especialmeti kikin Jawen Keen ikentian.
+shp_Latn: Santo se especializó en seguridad contra incendios porque era un problema que le era muy querido.
+
+arb_Arab: ملاحظة: IMA Jaweki menitira itiki kikin jakon هدية عيد الميلاد.
+shp_Latn: P. S.: Una donación de tributo al IMA es un maravilloso regalo navideño.
+
+arb_Arab: I.U. ايتان نونرا كيكين مهم yoiyai.
+shp_Latn: Nosotros y la I.U. considera que eres importante.
+

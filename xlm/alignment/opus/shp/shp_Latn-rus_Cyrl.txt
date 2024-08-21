@@ -1,0 +1,30 @@
+rus_Cyrl: Нояи 20 000 миль горатиби Виноа.
+shp_Latn: Vuela más de 20 000 millas por hora.
+
+rus_Cyrl: Джаинра икатиай кикин ича хобо копимабо.
+shp_Latn: La mayor parte de la zona estaba llena de casas baratas.
+
+rus_Cyrl: 5 миллионов долларов Билл Гейтснин Менике.
+shp_Latn: Bill Gates nos donó 5 millones $.
+
+rus_Cyrl: Nato biomasboanra akai yoinabo manish meran ikatikanai keska akin.
+shp_Latn: Los biomas simulan los entornos de vida natural de los animales.
+
+rus_Cyrl: Ёметсобоан кемарики очитибо.
+shp_Latn: A los ladrones no les gustan los perros.
+
+rus_Cyrl: Бебоинра бочоахра, онанти икаи джацан.
+shp_Latn: Si hay una sobrecarga, hay un ruido que la acompaña.
+
+rus_Cyrl: Ин шинанара и иконма ики.
+shp_Latn: No creo que eso sea cierto.
+
+rus_Cyrl: Сантора ика ики менонакекиан койранаинко особенный кикин джавен острый икентиан.
+shp_Latn: Santo se especializó en seguridad contra incendios porque era un problema que le era muy querido.
+
+rus_Cyrl: P.S.: IMA Jaweki Menitira Itiki kikin jakon Рождественский подарок.
+shp_Latn: P. S.: Una donación de tributo al IMA es un maravilloso regalo navideño.
+
+rus_Cyrl: И.Ю. Итан Нонра Кикин важный йойай.
+shp_Latn: Nosotros y la I.U. considera que eres importante.
+

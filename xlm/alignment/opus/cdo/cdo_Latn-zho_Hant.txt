@@ -1,0 +1,30 @@
+zho_Hant: 你是来做客的。
+cdo_Latn: Nī-lāi gāu-kì bîng-i
+
+zho_Hant: 我来找你。
+cdo_Latn: Góa-lāi ka-lí
+
+zho_Hant: 你想吃什么？
+cdo_Latn: Ní-ài-sióng siáⁿ-mih
+
+zho_Hant: 我喜欢吃肉。
+cdo_Latn: Góa-ài-sióng siáⁿ-kàu
+
+zho_Hant: 你想去哪里？
+cdo_Latn: Ní-ài-sióng khì-nāu
+
+zho_Hant: 我喜欢去海边。
+cdo_Latn: Góa-ài-sióng khì-hái-piān
+
+zho_Hant: 你想看什么？
+cdo_Latn: Ní-ài-sióng sióng-beh mih
+
+zho_Hant: 我喜欢看电影。
+cdo_Latn: Góa-ài-sióng sióng-beh diàn-siāⁿ
+
+zho_Hant: 你能讲什么？
+cdo_Latn: Ní-óng-bái mih
+
+zho_Hant: 我会说闽东语。
+cdo_Latn: Góa-óng-bái Min-Dong-gí
+

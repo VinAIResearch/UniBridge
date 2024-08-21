@@ -1,0 +1,30 @@
+jpn_Jpan: 彼は自身の会社 Adel Productions を通じてプロデューサーでもあり、2 本の映画を監督しています。
+olo_Latn: Hän on houkutellut yli 134 miljoonaa ihmistä elokuvateatteriin, ja hän on yksi arvostetuimmista ja kuuluisimmista näyttelijöistä Euroopassa. 
+
+jpn_Jpan: オロネツの町から 65 km、ヴォルジャルヴィ湖の北東岸に位置します。
+olo_Latn: Se sijoittuu Voruzjärven koillisrannal, 65 kilometrin piäs Anuksespäi koillizeh. 
+
+jpn_Jpan: 19 世紀にはレボインセルジーとして知られ、オロネツ県のオロネツ ウエズドに属していました。
+olo_Latn: XIX vuozisual tädä kyliä kučuttih Reboinselgy (Lisja Sel’gä), kudai kuului Kotkatjärven voulostih Anuksen ujezdah. 
+
+jpn_Jpan: 第二次ロシア・フィンランド戦争（1941年～1944年）中、町は事実上破壊され、戦後、森林労働者のために家が建てられた。
+olo_Latn: Konzu voinu Nevvostoliiton da Suomen välis (1941 – 1944) loppui, rakendettih mečänruadajien pos’olku. 
+
+jpn_Jpan: 2009 年に、ペトロザヴォーツクの聖タデウスに捧げられた正教会が建設されました。
+olo_Latn: Vuonnu 2009 rakendettih pravosluavnoi kirikkö (ven. православный храм во имя святого блаженного Фаддея Петрозаводского). 
+
+jpn_Jpan: 1959 年、この地域の住民は 900 人でした。
+olo_Latn: Vuonnu 1959 pos’olkas eli 900 hengie. 
+
+jpn_Jpan: 金日成 (1912–1994) は朝鮮民主主義人民共和国の初代指導者でした
+olo_Latn: Kim Il-sung (1912-1994) oli North Korea muan prezidentu. 
+
+jpn_Jpan: アヴネポログは、カレリア共和国ケム地区のクリヴォイ・ポロズ村集落内にある村です。
+olo_Latn: Авнепорог on Karjalan tazavallan Kemin piirin Viärykosken kyläkunnan pos’olku. 
+
+jpn_Jpan: ホルマト・ナモゾビッチ・オディロフ（Kholmat Namozovich Odilov、タジク語: 、2004年9月28日、ウズベキスタン、カシュカダリヤ地方ゲロン出身）は、ロシアの歌手、ミュージシャン、プロデューサー、歌手兼作曲家である。音楽レーベル「A.S.MusicX Group」創設者。
+olo_Latn: Kholmat Namozovich Odilov (tadžikistan: , 28. syyskuuta 2004, Gelon, Kashkadaryan alue, Uzbekistan) on venäläinen laulaja, muusikko, tuottaja, laulaja-säveltäjä. A.S.MusicX Group -levy-yhtiön perustaja.
+
+jpn_Jpan: 人口統計
+olo_Latn: Rahvahan lugumiäry 
+

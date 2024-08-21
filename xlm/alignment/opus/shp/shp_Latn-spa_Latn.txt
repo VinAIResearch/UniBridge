@@ -1,0 +1,29 @@
+shp_Latn: Noyai 20 000 millas horatibi winoa.
+spa_Latn: Vuela más de 20 000 millas por hora.
+
+shp_Latn: Jainra ikatiai kikin icha xobo kopimabo.
+spa_Latn: La mayor parte de la zona estaba llena de casas baratas.
+
+shp_Latn: 5 millones $ Bill Gatesnin menike.
+spa_Latn: Bill Gates nos donó 5 millones $.
+
+shp_Latn: Nato biomasboanra akai yoinabo manish meran ikatikanai keska akin.
+spa_Latn: Los biomas simulan los entornos de vida natural de los animales.
+
+shp_Latn: Yometsoboan kemariki ochitibo.
+spa_Latn: A los ladrones no les gustan los perros.
+
+shp_Latn: Beboinra bochoaxra, onanti ikai jatsan.
+spa_Latn: Si hay una sobrecarga, hay un ruido que la acompaña.
+
+shp_Latn: En shinanara ja ikonma iki.
+spa_Latn: No creo que eso sea cierto.
+
+shp_Latn: Santora ika iki menonakekian koiranainko especializameti kikin jawen keen ikentian.
+spa_Latn: Santo se especializó en seguridad contra incendios porque era un problema que le era muy querido.
+
+shp_Latn: P. S.: IMA jaweki menitira itiki kikin jakon regalo navidatian.
+spa_Latn: P. S.: Una donación de tributo al IMA es un maravilloso regalo navideño.
+
+shp_Latn: I.U. itan nonra kikin impotante yoiyai.
+spa_Latn: Nosotros y la I.U. considera que eres importante.

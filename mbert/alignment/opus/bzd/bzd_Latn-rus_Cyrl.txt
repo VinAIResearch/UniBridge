@@ -1,0 +1,30 @@
+rus_Cyrl: Ye'shkèxnã bua'ë.
+bzd_Latn: Yo amanecí muy bien.
+
+rus_Cyrl: Йе дор бикакала.
+bzd_Latn: Yo soy maestro de ceremonias.
+
+rus_Cyrl: Это шекна?
+bzd_Latn: Como amanecieron ustedes?
+
+rus_Cyrl: Са'шекна буаэ.
+bzd_Latn: Nosotros amanecimos muy bien.
+
+rus_Cyrl: Это быть шкексна?
+bzd_Latn: Como amaneció usted?
+
+rus_Cyrl: Ye'shkèxnã bua'ë.
+bzd_Latn: Yo amanecí muy bien.
+
+rus_Cyrl: Йе дор Хуан.
+bzd_Latn: Yo soy Juan.
+
+rus_Cyrl: Хотите быть?
+bzd_Latn: Cómo se llama usted?
+
+rus_Cyrl: Йеки Хуан.
+bzd_Latn: Yo me llamo Juan.
+
+rus_Cyrl: Будьте такими же, какие есть.
+bzd_Latn: Yo me llamo como usted se llama.
+

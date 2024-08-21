@@ -1,0 +1,30 @@
+rus_Cyrl: Добрый день!
+eml_Latn: Boun dì!
+
+rus_Cyrl: Как вас зовут?
+eml_Latn: Come te ciàmet?
+
+rus_Cyrl: Как вы?
+eml_Latn: Come stè?
+
+rus_Cyrl: Я в порядке, спасибо.
+eml_Latn: Stò bèin, grazie.
+
+rus_Cyrl: Вы говорите на Эмилиан-Романьольском языке?
+eml_Latn: Conòsset l'Emilian-Romagnol?
+
+rus_Cyrl: Я немного понимаю Эмилиан-Романьольский.
+eml_Latn: Capìsc un pôc d'Emilian-Romagnol.
+
+rus_Cyrl: Вы заинтересованы в изучении Эмилиано-Романьольского языка?
+eml_Latn: Sê interessè a imparèr l'Emilian-Romagnol?
+
+rus_Cyrl: Мне немного интересно.
+eml_Latn: Sê un pôc interessè.
+
+rus_Cyrl: Можете ли вы научить меня некоторым фразам на эмилианском-романьольском языке?
+eml_Latn: Puoi insegnarme qualche frase in l'Emilian-Romagnol?
+
+rus_Cyrl: Эмилиан-Романьоль – дело непростое, но учиться интересно.
+eml_Latn: L'Emilian-Romagnol l'è mia facil, ma l'è divertent da imparer.
+

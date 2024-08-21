@@ -1,0 +1,30 @@
+zho_Hant: 我爱你。
+ang_Latn: Ič lufie þē.
+
+zho_Hant: 那是我一生中最美好的一天。
+ang_Latn: Þæt ƿæs se besta dæᵹ mīnes līfes.
+
+zho_Hant: 我不想去上学。
+ang_Latn: Ic nelle to þæm larhuse.
+
+zho_Hant: 自由不是免费的。
+ang_Latn: Friþ-dōm ne is un-cēap.
+
+zho_Hant: 我不认识他。
+ang_Latn: Ič ne cann hine.
+
+zho_Hant: 你去哪儿了？
+ang_Latn: Hƿǣr ƿǣre þū?
+
+zho_Hant: 我能听到你的声音，但我看不到你。
+ang_Latn: Ič mæᵹ hȳran þē, ac ič ne mæᵹ sēon þē.
+
+zho_Hant: 桌子上有一把剪刀。
+ang_Latn: Scēars sind on þǣm bēode.
+
+zho_Hant: 王后站在国王身边。
+ang_Latn: Sēo cƿēn stōd be þǣm cynlinge.
+
+zho_Hant: 英国国王阿尔弗雷德是一位伟大的学者，也是一位伟大的统治者。
+ang_Latn: Ælfrēd, cyning Englalandes, ƿæs grēat leornere and ēac grēat cyning.
+

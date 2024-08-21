@@ -1,0 +1,30 @@
+arb_Arab: أنتم شكيكسنا بوا.
+bzd_Latn: Yo amanecí muy bien.
+
+arb_Arab: أنتم دور بيكالا.
+bzd_Latn: Yo soy maestro de ceremonias.
+
+arb_Arab: هل شكيكسنا؟
+bzd_Latn: Como amanecieron ustedes?
+
+arb_Arab: سا شكيكسنا بوا.
+bzd_Latn: Nosotros amanecimos muy bien.
+
+arb_Arab: هل يكون شكيكسنا؟
+bzd_Latn: Como amaneció usted?
+
+arb_Arab: أنتم شكيكسنا بوا.
+bzd_Latn: Yo amanecí muy bien.
+
+arb_Arab: أيها دور خوان.
+bzd_Latn: Yo soy Juan.
+
+arb_Arab: Íxmä be' kie؟
+bzd_Latn: Cómo se llama usted?
+
+arb_Arab: ييكي خوان.
+bzd_Latn: Yo me llamo Juan.
+
+arb_Arab: Be' kie ye' kie e's.
+bzd_Latn: Yo me llamo como usted se llama.
+

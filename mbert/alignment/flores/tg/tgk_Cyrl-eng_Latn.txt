@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+tgk_Cyrl: Олимони мактаби тибби донишгоҳи Стенфорд рӯзи душанбе дар бораи ихтирои асбоби нави ташхисие, ки метавонад ҳуҷайраҳоро аз рӯи навъ мураттаб кунад, эълон карданд: чипи хурди чопшавандае, ки бо истифода аз принтерҳои фавракдами муқаррарӣ истеҳсол карда мешавад ва эҳтимолан ҳар як кадомаш тақрибан 1 сенти ИМА арзиш дорад.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+tgk_Cyrl: Муҳаққиқони пешрафта мегӯянд, ки ин метавонад барои саривақт муайян кардани бемориҳои саратон, сил, ВНМО ва вараҷаро дар беморони кишварҳои сатҳи зиндагиашон паст, ки нишондиҳандаҳои сиҳатшавӣ аз бемориҳо, ба мисли саратони сина, нисфи кишварҳои сарватмандтар буда метавонад, мусоидат намояд.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+tgk_Cyrl: JAS 39C Gripen» тахминан соати 9:30 ба вақти маҳаллӣ (02:30 UTC) ба хати парвоз бархӯрда, таркид ва боиси баста шудани фурудгоҳ барои парвозҳои тиҷорӣ гардид.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+tgk_Cyrl: Халабон ба Дилокрит Паттави ‑ фармондеҳи эскадриля ҳаммонанд карда шуд.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+tgk_Cyrl: Расонаҳои ВАО хабар медиҳанд, ки дар фурудгоҳ ҳангоми амалиётҳои ҷавобӣ мошини оташхомӯшкунӣ чаппа шудааст.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+tgk_Cyrl: Се фасл қабл Видали 28 сола аз тими Севиля ба тими Барса гузашт.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+tgk_Cyrl: Аз замони ба пойтахти Каталония кӯчиданаш, Видал дар 49 бозии клуб бозӣ кардааст.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+tgk_Cyrl: Эътироз ба вақти маҳаллӣ тақрибан соати 11:00 (UTC+1) дар кӯчаи Уайтҳолл дар рӯ ба рӯи даромадгоҳи бо полис муҳофизатшаванда ба Даунинг Стрит, қароргоҳи расмии сарвазир шурӯъ гардид.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+tgk_Cyrl: Дарҳол пас аз соати 11:00, тазоҳургарон пеши роҳи вагони шимолиро дар Уайтҳолл бастанд.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+tgk_Cyrl: Соати 11:20 полис эътирозгаронро хоҳиш намуд, ки онҳо ба тротуари роҳ баргарданд, чунки полис бояд ҳуқуқи эътирозгарон ва афзоиши мошинҳо дар роҳро мувозинат кунад.
+

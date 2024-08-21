@@ -1,0 +1,29 @@
+eng_Latn: I love you.
+ang_Latn: Ič lufie þē.
+
+eng_Latn: That was the best day of my life.
+ang_Latn: Þæt ƿæs se besta dæᵹ mīnes līfes.
+
+eng_Latn: I don't want to go to school.
+ang_Latn: Ic nelle to þæm larhuse.
+
+eng_Latn: Freedom is not free.
+ang_Latn: Friþ-dōm ne is un-cēap.
+
+eng_Latn: I don't know him.
+ang_Latn: Ič ne cann hine.
+
+eng_Latn: Where have you been?
+ang_Latn: Hƿǣr ƿǣre þū?
+
+eng_Latn: I can hear you, but I can't see you.
+ang_Latn: Ič mæᵹ hȳran þē, ac ič ne mæᵹ sēon þē.
+
+eng_Latn: There is a pair of scissors on the desk.
+ang_Latn: Scēars sind on þǣm bēode.
+
+eng_Latn: The queen stood beside the king.
+ang_Latn: Sēo cƿēn stōd be þǣm cynlinge.
+
+eng_Latn: Alfred, King of England, was a great scholar as well as a great ruler.
+ang_Latn: Ælfrēd, cyning Englalandes, ƿæs grēat leornere and ēac grēat cyning.

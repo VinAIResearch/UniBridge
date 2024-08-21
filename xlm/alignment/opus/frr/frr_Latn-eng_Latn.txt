@@ -1,0 +1,29 @@
+eng_Latn: Why is everyone awake?
+frr_Latn: Hurom sen ali waaken?
+
+eng_Latn: What is his job?
+frr_Latn: Wat es sin Hantiaring?
+
+eng_Latn: The village is big and green.
+frr_Latn: Dit Tērp es gurt en green.
+
+eng_Latn: So, what have you done?
+frr_Latn: Wat heest dü alsoo maaket?
+
+eng_Latn: Julia wants to fly to America.
+frr_Latn: Julia wel tö Ameerika flö.
+
+eng_Latn: Can you give me your pocket knife?
+frr_Latn: Kenst dü mi din Fekknif dö?
+
+eng_Latn: The cat is catching a mouse.
+frr_Latn: Di Kat fangt en Müs.
+
+eng_Latn: He wants to buy a chain.
+frr_Latn: Hi wel en Keting koopi.
+
+eng_Latn: The horse gallops over the meadow.
+frr_Latn: Di Hingst galopiaret aur Ingi.
+
+eng_Latn: Where do these ways lead to?
+frr_Latn: Hurhen föör des Waien?

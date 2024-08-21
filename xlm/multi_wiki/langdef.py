@@ -1,0 +1,36 @@
+LANGUAGES = [
+    "am",
+    "ang",
+    "cdo",
+    "crh",
+    "eml",
+    "frr",
+    "km",
+    "kn",
+    "lij",
+    "ps",
+    "sa",
+    "sd",
+    "si",
+    "so",  # WikiANN
+    "en",
+    "ja",
+    "ru",
+    "zh",
+    "ar",
+    "es",  # source
+    "aym",
+    "bzd",
+    "cni",
+    "gn",
+    "hch",
+    "nah",
+    "oto",
+    "quy",
+    "shp",
+    "tar",  # AmericasNLI
+    "olo",
+    "ta",
+    "tl",
+    "tt",  # UPOS
+]

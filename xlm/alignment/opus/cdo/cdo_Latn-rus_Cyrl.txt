@@ -1,0 +1,30 @@
+rus_Cyrl: Вы пришли в гости.
+cdo_Latn: Nī-lāi gāu-kì bîng-i
+
+rus_Cyrl: Я прихожу, чтобы найти тебя.
+cdo_Latn: Góa-lāi ka-lí
+
+rus_Cyrl: Что ты хочешь съесть?
+cdo_Latn: Ní-ài-sióng siáⁿ-mih
+
+rus_Cyrl: Я люблю есть мясо.
+cdo_Latn: Góa-ài-sióng siáⁿ-kàu
+
+rus_Cyrl: Куда ты хочешь пойти?
+cdo_Latn: Ní-ài-sióng khì-nāu
+
+rus_Cyrl: Мне нравится ходить на пляж.
+cdo_Latn: Góa-ài-sióng khì-hái-piān
+
+rus_Cyrl: Что вы хотите смотреть?
+cdo_Latn: Ní-ài-sióng sióng-beh mih
+
+rus_Cyrl: Я люблю смотреть фильмы.
+cdo_Latn: Góa-ài-sióng sióng-beh diàn-siāⁿ
+
+rus_Cyrl: Что ты можешь говорить?
+cdo_Latn: Ní-óng-bái mih
+
+rus_Cyrl: Я могу говорить на миндоне.
+cdo_Latn: Góa-óng-bái Min-Dong-gí
+

@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+tat_Cyrl: Дүшәмбе көнне Стэнфорд университетының Медицина мәктәбе галимнәре күзәнәкләрне төре буенча аера ала торган яңа диагностик чара уйлап табылу турында игълан итте: гадәти агынтылы принтер ярдәмендә бер цент тирәсе генә бәягә җитештереп була торган кечкенә бастырыла торган чип.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+tat_Cyrl: Әйдәп баручы белгечләр сүзләренчә, бу күкрәк рагы кебек авырулардан исән калу дәрәҗәсе баерак илләргә караганда яртылаш кимрәк була алган аз керемле илләрдә пациентларда яман шеш, туберкулез, ВИЧ һәм малярияне иртә ачыклау мөмкинлеген бирә ала.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+tat_Cyrl: JAS 39C Gripen очкычы җирле вакыт буенча (0230 UTC) иртәнге 9:30 очып китү-төшеп утыру юлына төшеп бәрелде һәм шартлады, нәтиҗәдә аэропорт коммерциячел очышлар өчен ябылды.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+tat_Cyrl: Пилот эскадрилья командиры Дилокрит Паттави булуы ачыкланды.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+tat_Cyrl: Җирле мәгълүмат чаралары янгын сүндерү машинасы ярдәм килгәндә әйләнеп капланган дип хәбәр итә.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+tat_Cyrl: 28 яшьлек Видаль "Барса"га өч ел элек "Севилья"дән килеп кушылды.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+tat_Cyrl: Каталония башкаласына күчкәннән соң, Видаль клуб өчен 49 уенда уйнады.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+tat_Cyrl: Каршылык чарасы җирле вакыт белән 11:00 (UTC+1) тирәсендә Уайтхоллда Премьер-министрның рәсми резиденциясе булган Даунинг-стритка полиция сагындагы керү каршысында башланды.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+tat_Cyrl: Сәгать 11:00 тулгач та каршылык чарасында катнашучылар Уайтхоллда төньяк юнәлешендәге хәрәкәтне томалады.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+tat_Cyrl: 11:20 полиция, протест күрсәтү хокукын трафик арту белән тигезләштерү кирәклегенә таянып, каршылык чарасында катнашучыларны кире тротуарга чигенергә сорады.
+

@@ -1,0 +1,30 @@
+zho_Hant: Ye' shkèxnã bua'ë。
+bzd_Latn: Yo amanecí muy bien.
+
+zho_Hant: Ye' dör bikâkala。
+bzd_Latn: Yo soy maestro de ceremonias.
+
+zho_Hant: 是 a' shkèxnã 吗？
+bzd_Latn: Como amanecieron ustedes?
+
+zho_Hant: Sa' shkèxnã bua'ë。
+bzd_Latn: Nosotros amanecimos muy bien.
+
+zho_Hant: 是' shkèxnã 吗？
+bzd_Latn: Como amaneció usted?
+
+zho_Hant: Ye' shkèxnã bua'ë。
+bzd_Latn: Yo amanecí muy bien.
+
+zho_Hant: 是的，胡安。
+bzd_Latn: Yo soy Juan.
+
+zho_Hant: Íxmã be' kie？
+bzd_Latn: Cómo se llama usted?
+
+zho_Hant: 是的，胡安。
+bzd_Latn: Yo me llamo Juan.
+
+zho_Hant: 是'kie ye' kie e's。
+bzd_Latn: Yo me llamo como usted se llama.
+

@@ -1,0 +1,30 @@
+rus_Cyrl: Я тебя люблю.
+ang_Latn: Ič lufie þē.
+
+rus_Cyrl: Это был лучший день в моей жизни.
+ang_Latn: Þæt ƿæs se besta dæᵹ mīnes līfes.
+
+rus_Cyrl: Я не хочу идти в школу.
+ang_Latn: Ic nelle to þæm larhuse.
+
+rus_Cyrl: Свобода не бесплатна.
+ang_Latn: Friþ-dōm ne is un-cēap.
+
+rus_Cyrl: Я его не знаю.
+ang_Latn: Ič ne cann hine.
+
+rus_Cyrl: Где ты был?
+ang_Latn: Hƿǣr ƿǣre þū?
+
+rus_Cyrl: Я тебя слышу, но не вижу.
+ang_Latn: Ič mæᵹ hȳran þē, ac ič ne mæᵹ sēon þē.
+
+rus_Cyrl: На столе лежат ножницы.
+ang_Latn: Scēars sind on þǣm bēode.
+
+rus_Cyrl: Королева стояла рядом с королем.
+ang_Latn: Sēo cƿēn stōd be þǣm cynlinge.
+
+rus_Cyrl: Альфред, король Англии, был великим ученым и великим правителем.
+ang_Latn: Ælfrēd, cyning Englalandes, ƿæs grēat leornere and ēac grēat cyning.
+

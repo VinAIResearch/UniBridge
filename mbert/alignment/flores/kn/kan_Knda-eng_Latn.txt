@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+kan_Knda: ಅಂದಾಜು ತಲಾ ಒಂದು ಯು.ಎಸ್‌ ಸೆಂಟ್‌ನಿಂದ ಪ್ರಮಾಣಿತ ಇಂಕ್‌ಜೆಟ್ ಪ್ರಿಂಟರುಗಳನ್ನು ಬಳಸಿ ಉತ್ಪಾದಿಸಬಹುದಾದ ಸಣ್ಣ ಪ್ರಿಂಟ್ ಮಾಡಬಹುದಾದ ಚಿಪ್‌ ಆಗಿರುವ ಸೆಲ್‌ಗಳ ವಿಧವನ್ನು ಆಯೋಜಿಸುವ ಹೊಸ ಪತ್ತೆ ಪರಿಕರದ ಅನ್ವೇಷಣೆಯ ಘೋಷಣೆಯನ್ನು ಸ್ಟಾನ್‌ಫೋರ್ಡ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಔಷಧ ಶಾಲೆಯ ವಿದ್ಯಾರ್ಥಿಗಳು ಸೋಮವಾರ ಮಾಡಿದ್ದಾರೆ.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+kan_Knda: ಪ್ರಮುಖ ಸಂಶೋಧಕರು ಹೇಳುವಂತೆ, ಇದರಿಂದ ಕಡಿಮೆ ಆದಾಯ ಇರುವ ದೇಶಗಳ  ರೋಗಿಗಳಲ್ಲಿ ಮತ್ತು   ಶ್ರೀಮಂತ ರಾಷ್ಟ್ರಗಳಲ್ಲಿ ಇರುವುದಕ್ಕಿಂತ ಅರ್ಧದಷ್ಟು  ಬದುಕುಳಿಯುವ ಪ್ರಮಾಣ ಇರುವ ಸ್ತನ ಕ್ಯಾನ್ಸರ್ ರೋಗಿಗಳಲ್ಲಿ ,   ಕ್ಯಾನ್ಸರ್,  ಕ್ಷಯರೋಗ, HIV ಮತ್ತು ಮಲೇರಿಯಾ ರೋಗಗಳನ್ನು ಆರಂಭಿಕ ಹಂತದಲ್ಲೇ ಪತ್ತೆ ಹಚ್ಚಬಹುದು  ಎಂದಿದ್ದಾರೆ.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+kan_Knda: JAS 39C  ಗ್ರೈಪೆನ್, ಸ್ಥಳೀಯ ಸಮಯ ಬೆಳಿಗ್ಗೆ 9:30 ಕ್ಕೆ (0230 UTC)  ರನ್ ವೇ ಮೇಲೆ ಅಪ್ಪಳಿಸಿ  ನಂತರ ಸ್ಫೋಟಗೊಂಡಿದ್ದರಿಂದ, ವಿಮಾನ ನಿಲ್ದಾಣವನ್ನು ಕಮರ್ಷಿಯಲ್ ವಿಮಾನಗಳಿಗೆ  ಮುಚ್ಚಲಾಯಿತು.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+kan_Knda: ಆ ಪೈಲಟ್‌ನನ್ನು ಸ್ಕ್ವಾಡ್ರನ್ ಲೀಡರ್ ದಿಲೋಕ್ರಿತ್ ಪಟ್ಟವೀ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+kan_Knda: ವಿಮಾನ ನಿಲ್ದಾಣದ ಅಗ್ನಿ ಶಾಮಕ ದಳದ ಒಂದು ವ್ಯಾನು, ಸ್ಫೋಟದ ಜಾಗಕ್ಕೆ ಹೋಗುವಾಗ ಉರುಳಿತು  ಎಂದು ಸ್ಥಳೀಯ ಮಾಧ್ಯಮಗಳು ವರದಿ ಮಾಡಿವೆ.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+kan_Knda: 28 ವರ್ಷದ ವಿಡಾಲ್  ಮೂರು ಸೀಸನ್ ಗಳ  ಮುಂಚೆ, ಸೆವಿಲ್ಲಾ ದಿಂದ ಬರ್ಕಾಗೆ  ಸೇರಿಕೊಂಡಿದ್ದಾರೆ.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+kan_Knda: ಕೆಟಲಾನಿನ ರಾಜಧಾನಿಗೆ ಬಂದಾಗಿನಿಂದ, ಕ್ಲಬ್ ವತಿಯಿಂದ  ವಿಡಾಲ್ 49 ಪಂದ್ಯಗಳನ್ನು ಆಡಿದ್ದಾರೆ.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+kan_Knda: ಪ್ರತಿಭಟನೆಯು, ಡೌನಿಂಗ್  ಸ್ಟ್ರೀಟ್ ನಲ್ಲಿರುವ   ಪೊಲೀಸರಿಂದ ಕಾಯಲ್ಪಟ್ಟಿರುವ ಪ್ರಧಾನ ಮಂತ್ರಿಯ ಅಧಿಕೃತ ನಿವಾಸದ  ಎದುರಿರುವ ವೈಟ್ ಹಾಲ್  ನಲ್ಲಿ   ಸ್ಥಳೀಯ ಸಮಯ 11:00(UTC +1)ಕ್ಕೆ  ಶುರುವಾಯಿತು.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+kan_Knda: 11:00 ನಂತರವೇ, ವೈಟ್‌ಹಾಲ್‌ನ ಉತ್ತರ ದಿಕ್ಕಿನ ಕ್ಯಾರಿಯೇಜ್‌ನ ಟ್ರಾಫಿಕ್ ಅನ್ನು ಪ್ರತಿಭಟನಾಕಾರರು ಪ್ರತಿಬಂಧಿಸಿದರು.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+kan_Knda: 11: 20 ಕ್ಕೆ ಪೊಲೀಸರು ಪ್ರತಿಭಟನಾಕಾರರನ್ನು ಪಾದಚಾರಿ ಮಾರ್ಗಕ್ಕೆ ಹಿಂತಿರುಗುವಂತೆ ಕೇಳಿಕೊಂಡರು, ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕು ಮತ್ತು ದಟ್ಟಣೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ನಡುವೆ ಸಮತೋಲನವನ್ನು ಸಾಧಿಸುವ ಅಗತ್ಯವಿದೆ ಎಂದು ಹೇಳಿದರು.
+

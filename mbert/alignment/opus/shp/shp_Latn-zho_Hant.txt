@@ -1,0 +1,30 @@
+zho_Hant: Noyai 20,000 英里 Horatibi winoa。
+shp_Latn: Vuela más de 20 000 millas por hora.
+
+zho_Hant: Jainra ikatiai kikin icha xobo kopimabo。
+shp_Latn: La mayor parte de la zona estaba llena de casas baratas.
+
+zho_Hant: 500万美元比尔盖茨宁梅尼克。
+shp_Latn: Bill Gates nos donó 5 millones $.
+
+zho_Hant: 北约 Biomasboanra Akai yoinabo Manish Meran ikatikanai keska 类似。
+shp_Latn: Los biomas simulan los entornos de vida natural de los animales.
+
+zho_Hant: Yometsoboan kemariki ochitibo。
+shp_Latn: A los ladrones no les gustan los perros.
+
+zho_Hant: Beboinra bochoaxra，onanti ikai jatsan。
+shp_Latn: Si hay una sobrecarga, hay un ruido que la acompaña.
+
+zho_Hant: 在 shinanara ja ikonma iki 中。
+shp_Latn: No creo que eso sea cierto.
+
+zho_Hant: Santora ika iki menonakekian koiranainko 特别是 kikinajawen 敏锐的 ikentian。
+shp_Latn: Santo se especializó en seguridad contra incendios porque era un problema que le era muy querido.
+
+zho_Hant: P.S.：IMAjaweki menitira itiki kikin jakon 圣诞礼物。
+shp_Latn: P. S.: Una donación de tributo al IMA es un maravilloso regalo navideño.
+
+zho_Hant: I.U. Itan Nonra kikin 重要的 yoiyai。
+shp_Latn: Nosotros y la I.U. considera que eres importante.
+

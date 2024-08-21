@@ -1,0 +1,30 @@
+jpn_Jpan: 愛してます。
+ang_Latn: Ič lufie þē.
+
+jpn_Jpan: それは私の人生で最高の日でした。
+ang_Latn: Þæt ƿæs se besta dæᵹ mīnes līfes.
+
+jpn_Jpan: 学校に行きたくないです。
+ang_Latn: Ic nelle to þæm larhuse.
+
+jpn_Jpan: 自由は無料ではありません。
+ang_Latn: Friþ-dōm ne is un-cēap.
+
+jpn_Jpan: 私は彼を知りません。
+ang_Latn: Ič ne cann hine.
+
+jpn_Jpan: どこにいましたか？
+ang_Latn: Hƿǣr ƿǣre þū?
+
+jpn_Jpan: 声は聞こえますが、姿は見えません。
+ang_Latn: Ič mæᵹ hȳran þē, ac ič ne mæᵹ sēon þē.
+
+jpn_Jpan: 机の上にハサミがあります。
+ang_Latn: Scēars sind on þǣm bēode.
+
+jpn_Jpan: 王妃は王の隣に立っていた。
+ang_Latn: Sēo cƿēn stōd be þǣm cynlinge.
+
+jpn_Jpan: イングランド王アルフレッドは偉大な統治者であると同時に偉大な学者でもありました。
+ang_Latn: Ælfrēd, cyning Englalandes, ƿæs grēat leornere and ēac grēat cyning.
+

@@ -1,0 +1,30 @@
+arb_Arab: لذلك، bilé mili waminá malícent pakótami si napawíli، echoná ne si bakíli.
+tar_Latn: y, mmm..., fueron dos mil quinientas personas cuando me uní y, mmm...
+
+arb_Arab: هذا ليس كل ما لدي من آلات جيدة.
+tar_Latn: Sé que no estás obsesionado con esto.
+
+arb_Arab: A ne machi chu oláne risóa iníli، nalí tási ne mi ruyénali.
+tar_Latn: Creo que sé por qué no me siento bien, pero no quiero decírtelo.
+
+arb_Arab: Echi ko bilé rejói اليونانية جو، tasi ra'ícha الإنجليزية.
+tar_Latn: Él es un hombre griego que no habla inglés.
+
+arb_Arab: أعادت إيتشي بيكي إحياء هذا الاسم الجديد.
+tar_Latn: A Becky no le importa para nada.
+
+arb_Arab: Ne a'lá sébali ga’labé ni niwáki.
+tar_Latn: Lo hice sin cometer ningún error.
+
+arb_Arab: Uché wekáta newalé bilé مائة ميلي، echikíta napabúba jípi bamíbali.
+tar_Latn: Necesitamos $100.000 más para realizar nuestras cuotas de recaudación de fondos de esta temporada.
+
+arb_Arab: Ke ni kaléli Mapu iyíri ju.
+tar_Latn: No era fanático suyo.
+
+arb_Arab: Ke ni bakináli ma bikianá nocháliachi, ku’íruwami nóchali wabé betéami nocháliami.
+tar_Latn: No quiero entrar en la Tercera SS que es el Tercer Escuadrón de Apoyo Estratégico.
+
+arb_Arab: tási ne ko’á ko’wáami reyáwi siyónami nati newáraami, áji cha chijúnti!
+tar_Latn: ¡Nunca como ensalada, qué asco!
+

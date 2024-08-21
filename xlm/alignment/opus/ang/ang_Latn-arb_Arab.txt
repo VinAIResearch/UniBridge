@@ -1,0 +1,30 @@
+arb_Arab: أحبك.
+ang_Latn: Ič lufie þē.
+
+arb_Arab: كان ذلك أفضل يوم في حياتي.
+ang_Latn: Þæt ƿæs se besta dæᵹ mīnes līfes.
+
+arb_Arab: لا أريد الذهاب إلى المدرسة.
+ang_Latn: Ic nelle to þæm larhuse.
+
+arb_Arab: الحرية ليست مجانية.
+ang_Latn: Friþ-dōm ne is un-cēap.
+
+arb_Arab: أنا لا أعرفه.
+ang_Latn: Ič ne cann hine.
+
+arb_Arab: أين كنت؟
+ang_Latn: Hƿǣr ƿǣre þū?
+
+arb_Arab: أستطيع سماعك، ولكن لا أستطيع رؤيتك.
+ang_Latn: Ič mæᵹ hȳran þē, ac ič ne mæᵹ sēon þē.
+
+arb_Arab: هناك زوج من المقص على المكتب.
+ang_Latn: Scēars sind on þǣm bēode.
+
+arb_Arab: وقفت الملكة بجانب الملك.
+ang_Latn: Sēo cƿēn stōd be þǣm cynlinge.
+
+arb_Arab: كان ألفريد، ملك إنجلترا، عالمًا عظيمًا وحاكمًا عظيمًا.
+ang_Latn: Ælfrēd, cyning Englalandes, ƿæs grēat leornere and ēac grēat cyning.
+

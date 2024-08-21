@@ -1,0 +1,30 @@
+tar_Latn: A’líko, bilé mili waminá malí ciento pakótami si napawíli, echoná ne si bakíli.
+spa_Latn: y, mmm..., fueron dos mil quinientas personas cuando me uní y, mmm...
+
+tar_Latn: Ke mu kalé je’náa ni bonói machí.
+spa_Latn: Sé que no estás obsesionado con esto.
+
+tar_Latn: A ne machí chu oláne risóa iníli, nalí tási ne mi ruyénali.
+spa_Latn: Creo que sé por qué no me siento bien, pero no quiero decírtelo.
+
+tar_Latn: Echi ko bilé rejói Griego ju, tasi ra’ícha inglés.
+spa_Latn: Él es un hombre griego que no habla inglés.
+
+tar_Latn: Échi Becky rewéami ko tási namúti newalé.
+spa_Latn: A Becky no le importa para nada.
+
+tar_Latn: Ne a’lá sébali ga’labé ni niwáki.
+spa_Latn: Lo hice sin cometer ningún error.
+
+tar_Latn: Uché wekáta newalé bilé ciento mili, echikíta napabúba jípi bamíbali.
+spa_Latn: Necesitamos $100.000 más para realizar nuestras cuotas de recaudación de fondos de esta temporada.
+
+tar_Latn: Ke ni kaléli mapu iyíri ju.
+spa_Latn: No era fanático suyo.
+
+tar_Latn: Ke ni bakináli ma bikianá nocháliachi, ku’íruwami nóchali wabé betéami nocháliami.
+spa_Latn: No quiero entrar en la Tercera SS que es el Tercer Escuadrón de Apoyo Estratégico.
+
+tar_Latn: ¡tási ne ko’á ko’wáami reyáwi siyónami nati newáraami, áji cha chijúnti!
+spa_Latn: ¡Nunca como ensalada, qué asco!
+

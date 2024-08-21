@@ -1,0 +1,29 @@
+eng_Latn: Good day!
+eml_Latn: Boun dì!
+
+eng_Latn: What is your name?
+eml_Latn: Come te ciàmet?
+
+eng_Latn: How are you?
+eml_Latn: Come stè?
+
+eng_Latn: I am fine, thank you.
+eml_Latn: Stò bèin, grazie.
+
+eng_Latn: Do you speak Emilian-Romagnol?
+eml_Latn: Conòsset l'Emilian-Romagnol?
+
+eng_Latn: I understand a little bit of Emilian-Romagnol.
+eml_Latn: Capìsc un pôc d'Emilian-Romagnol.
+
+eng_Latn: Are you interested in learning Emilian-Romagnol?
+eml_Latn: Sê interessè a imparèr l'Emilian-Romagnol?
+
+eng_Latn: I am a bit interested.
+eml_Latn: Sê un pôc interessè.
+
+eng_Latn: Can you teach me some phrases in Emilian-Romagnol?
+eml_Latn: Puoi insegnarme qualche frase in l'Emilian-Romagnol?
+
+eng_Latn: Emilian-Romagnol is not easy, but it is fun to learn.
+eml_Latn: L'Emilian-Romagnol l'è mia facil, ma l'è divertent da imparer.

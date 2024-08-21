@@ -1,0 +1,30 @@
+arb_Arab: يوم جيد!
+eml_Latn: Boun dì!
+
+arb_Arab: ما اسمك؟
+eml_Latn: Come te ciàmet?
+
+arb_Arab: كيف حالك؟
+eml_Latn: Come stè?
+
+arb_Arab: أنا بخير شكراً لك.
+eml_Latn: Stò bèin, grazie.
+
+arb_Arab: هل تتكلم إيميليان روماجنول؟
+eml_Latn: Conòsset l'Emilian-Romagnol?
+
+arb_Arab: أنا أفهم قليلاً من إيميليان روماجنول.
+eml_Latn: Capìsc un pôc d'Emilian-Romagnol.
+
+arb_Arab: هل أنت مهتم بتعلم إيميليان روماجنول؟
+eml_Latn: Sê interessè a imparèr l'Emilian-Romagnol?
+
+arb_Arab: أنا مهتم بعض الشيء.
+eml_Latn: Sê un pôc interessè.
+
+arb_Arab: هل يمكنك أن تعلمني بعض العبارات في إيميليان روماجنول؟
+eml_Latn: Puoi insegnarme qualche frase in l'Emilian-Romagnol?
+
+arb_Arab: إن لعبة Emilian-Romagnol ليست سهلة، ولكنها ممتعة للتعلم.
+eml_Latn: L'Emilian-Romagnol l'è mia facil, ma l'è divertent da imparer.
+

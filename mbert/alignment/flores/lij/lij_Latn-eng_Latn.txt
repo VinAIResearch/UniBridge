@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+lij_Latn: A-o lunesdì, i sciençiæ da Stanford University School of Medicine an annonçiou l'invençion d'un neuvo instrumento diagnòstico ch'o peu clascificâ e çellule pe meña: un sottî chip stampabile ch'o peu ëse produto con deuviâ de stampante inkjet standard, fòscia pe un çenteximo U.S. ognidun.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+lij_Latn: I reçercatoî de ponta dixan che sto fæto chì o peu portâ à unna tempoia descoverta de cancao, tixi, HIV e maläia pe-i paçienti inti paixi à basso reddito, donde e speise pe-a sorvevivensa a-e mouttie comme o cancao a-o sen peuan ëse a meitæ de quelle di paixi ciù mosci.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+lij_Latn: O JAS 39C Gripen o s'é anæto à scciantâ contra unna pista verso e 9,30 am oa locale (0230 UTC) e o l'é scciuppou, con serrâ l'æriopòrto a-i xeui commersæ.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+lij_Latn: O pilòtta o l'é stæto identificou comme o Cappo Squaddra Dilokrit Pattavee.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+lij_Latn: I media locali repòrtan che un caro de pompê de l'æriopòrto o s'é arrubattou tanto ch'o respondeiva.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+lij_Latn: O 28enne Vidal o l'é introu into Barça che l'é træ saxoin, da Seviggia.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+lij_Latn: Da quande o l'é anæto inta capitâ catalaña, o Vidal o l'à zugou 49 partie pe-o club.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+lij_Latn: A protesta a l'é comensâ verso e 11,00 oa locale (UTC+1) à Whitehall, pe contra à l'intrâ sorveggiâ da-a Poliçia de Downing Street, a rescidensa offiçiâ do Primmo Ministro.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+lij_Latn: Pròpio dòppo 11.00 i manifestanti an bloccou o traffego in sciâ carrezzâ nòrde à Whitehall.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+lij_Latn: À 11,20, a poliçia a l'à domandou a-i manifestanti d'arretiâse in sciô marciapê, stante che aivan beseugno de balansâ o drito de protestâ co-o traffego ch'o s'ammuggiava.
+

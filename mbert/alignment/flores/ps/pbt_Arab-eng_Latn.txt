@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+pbt_Arab: د Stanford پوهنتون د طب د ځانګی ساینسپوهانو د دوه شنبی په ورځ د یوې داسې تشخیصی آلی د ایجاد اعلان وکړ چې کولای شي حجرات د نوعی له مخی وويشي ، یو کوچنی چپ چې چاپ کول یې په معیاری Inkject Printer سره په د یوه امریکایې ډالر د یو سنټ په بیه ممکن دي
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+pbt_Arab: مخکښ پلټونکې وایي چې دا به وکولای شي چې په کم عاید لرونکې هیوادونو کې د نری رنځ سرطان ، HIVاو ملارېا د ناروغانو په اولنی مرحله کې د تشخیص لامل شي په کومو هیوادونو کې چې د سینې د سرطان له امله د مړینې کچه د بډای هیوادونو په پرتله دوه برابره ده
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+pbt_Arab: د JAS 39C Gripen الوتکه سهار په 9:30 بجو د مهلی وخت په هوایي کرښه را ولويدله( 0230UTC) او وچاوديدله چې هوایي ډګر یې د تجارتی پروازونو لپاره بند کړ
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+pbt_Arab: پیلوت د ټولې مشر Dilokrit Pattavee په نوم پیژندل شوی.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+pbt_Arab: محلي رسنیو راپور ورکړ چې په هوايي میدان کې د اور وژونکي یو موټر د اور وژلو پر وخت وسوځید.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+pbt_Arab: 28کلن ويدال درې فصله مخکې د سیولا څخه د بارکا سره یوځای شي
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+pbt_Arab: د کیتلان کاپیټل ته د انتقال څخه را په ديخوا , ويدال د کلب لپاره 49 لوبې کړي دي
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+pbt_Arab: مظاهره په محلي وخت په 11:00 بجو پیل شوه (1+UTC) په وایټ هال Whitehallباندي، مقابل وری ته پولیس د ډاوننګ سټریټ دداخلی لارې ځوکی داری کوي کوم ځای کې چې د وزیر اعظم رسمی استوګن ځای دي
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+pbt_Arab: لږ څه د پاسه په 11:00 بجو مظاهرېنو په وایټ هال white hall کې نارت باوڼډ کېرج North bound carriage د ترافیکو پر مخ وتړه
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+pbt_Arab: په 11:20 بجو پولیسو د مظاهرېنو څخه د شا تګ غوښتنه وکړه . د پولیسو وينا وه چې دوي اړ دي چې د مظاهرې حق او د ترافیکو د روانی تر منځ توازن وساتي
+

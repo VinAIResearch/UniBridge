@@ -1,0 +1,30 @@
+jpn_Jpan: なんでみんな起きてるの？
+frr_Latn: Hurom sen ali waaken?
+
+jpn_Jpan: 彼の仕事は何ですか？
+frr_Latn: Wat es sin Hantiaring?
+
+jpn_Jpan: 村は大きくて緑が多い。
+frr_Latn: Dit Tērp es gurt en green.
+
+jpn_Jpan: それで、何をしましたか？
+frr_Latn: Wat heest dü alsoo maaket?
+
+jpn_Jpan: ジュリアはアメリカへ飛びたいと思っています。
+frr_Latn: Julia wel tö Ameerika flö.
+
+jpn_Jpan: ポケットナイフを貸してもらえますか？
+frr_Latn: Kenst dü mi din Fekknif dö?
+
+jpn_Jpan: 猫がネズミを捕まえています。
+frr_Latn: Di Kat fangt en Müs.
+
+jpn_Jpan: 彼はチェーンを買いたいと思っています。
+frr_Latn: Hi wel en Keting koopi.
+
+jpn_Jpan: 馬が草原を疾走します。
+frr_Latn: Di Hingst galopiaret aur Ingi.
+
+jpn_Jpan: これらの道はどこにつながっているのでしょうか？
+frr_Latn: Hurhen föör des Waien?
+

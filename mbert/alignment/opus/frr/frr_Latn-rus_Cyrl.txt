@@ -1,0 +1,30 @@
+rus_Cyrl: Почему все бодрствуют?
+frr_Latn: Hurom sen ali waaken?
+
+rus_Cyrl: Где он работает?
+frr_Latn: Wat es sin Hantiaring?
+
+rus_Cyrl: Деревня большая и зеленая.
+frr_Latn: Dit Tērp es gurt en green.
+
+rus_Cyrl: Итак, что ты сделал?
+frr_Latn: Wat heest dü alsoo maaket?
+
+rus_Cyrl: Джулия хочет полететь в Америку.
+frr_Latn: Julia wel tö Ameerika flö.
+
+rus_Cyrl: Можешь дать мне свой карманный нож?
+frr_Latn: Kenst dü mi din Fekknif dö?
+
+rus_Cyrl: Кот ловит мышь.
+frr_Latn: Di Kat fangt en Müs.
+
+rus_Cyrl: Он хочет купить сеть.
+frr_Latn: Hi wel en Keting koopi.
+
+rus_Cyrl: Лошадь скачет по лугу.
+frr_Latn: Di Hingst galopiaret aur Ingi.
+
+rus_Cyrl: Куда ведут эти пути?
+frr_Latn: Hurhen föör des Waien?
+

@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+quy_Latn: Killachaw punchawpi, Facultad de Medicina Stanford hatun yachaywasimanta cientificokunami nimunku chay rikurichiy musuq qawapayay llankanamanta, celulakunapa rikchayninman sapankaqninmanta: huk huchuy chip imprimible nisqa rurakuyta atikullanmi impresora de inyección de tinta estandar nisqawan, huk centavo EE.UU. suyumanta dolarllawan sapankanta.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+quy_Latn: Yupaychasqa kuskiqkuna ninkun isku unquy manaraq rikhurichkaptinqa kaymanmi apanman, surqan unquyqa, VIH hinallataq chukchu unquypas hinallataq aswan pisi qulliyuq suyukuna, ñuñu isku unquyniyuq kankuman yaqapas kusqan atipaq suyukunamantaqa.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+quy_Latn: JAS 39C Gripen takakuran pista nisqaman, yaqapas 9:30 tutamantanta llaqta pacha (0230 tiqsimuyu pacha rimanakusqa) pataran, aeropuertota wichqaspa rantiy palaqkunapaq.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+quy_Latn: Wanpuq runaqa umalliqhina Dilokrit Pattavee Escuadronmanta riqsisqa kasqa.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+quy_Latn: Llaqtapi hampi kamayuqkuna willakamunku huk bombero carrupi aeropuertomanta wikchurakapusqa rimamusaq.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+quy_Latn: Vidal, 28 watayuq, Barçaman chayarqan yaqapas kimsa taqa ñawpaqtaraq, Sevilla llaqtamanta.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+quy_Latn: Catalan mama llaqtaman astakusqanmanta pacha, vidal pukllarqan 49 pukllaypi club nisqawan.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+quy_Latn: Qapariywan mañakuysi qallarisqa 11:00 urapi (UTC+1) Whitehall nisqankupi, policíawan qawasqa yaykuna Downing Street nisqankupa chimpanpi, Ñawpaq Ministropa yachanan puni.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+quy_Latn: Chunkahukniyuq qipachallanman (11:00), sayariqkuna wichqarqanku chinchayman riq ñankunata, Whitehallpi.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+quy_Latn: 11:20 yupay pachapis, policía mañasqa qapariywan mañakuqkunata anchunankupaq hatun ñan pataman, chaynallataq yupaychanankupaq qapariywan mañakuyninkuta karrukuna muntukusqankuwan paykuna rayku.
+

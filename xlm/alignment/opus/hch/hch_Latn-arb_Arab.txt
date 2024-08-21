@@ -1,0 +1,30 @@
+arb_Arab: yemek+p+kei ti eniet+ya.
+hch_Latn: Y en realidad no lo entendió.
+
+arb_Arab: nepeuye h+wa wa+ka iwaurika m+k+ nem+ta y+n+ ke aneme kaxu nem+naneni
+hch_Latn: Necesito más información para decidir qué tipo de coche quiero comprar.
+
+arb_Arab: pe h+k+t+kai metsi+ra+ ye tsie nieka ti+x+kat+.
+hch_Latn: Era una selva tropical.
+
+arb_Arab: heimana rieka، pexeiya ik+ m+tema wi+r+k+ menteti mani k+ memetsa weiya memetse +ket+ a xanetsika.
+hch_Latn: Además, tiene la satisfacción de saber que sus colegas están siendo instados a emular su buen juicio.
+
+arb_Arab: m+k+ k+ axapeure ka eriet+ yeika.
+hch_Latn: Y eso te hace sentir fatal.
+
+arb_Arab: نيوتي ويوي تيتا تيتا نينتيتا وييني هيك+.
+hch_Latn: Estoy haciendo lo que debo hacer hoy.
+
+arb_Arab: peuta tsanix+a hai tuxat+ naitsarie aix+ rek+y+ ta heima meuyuawi.
+hch_Latn: jirones de nubes blancas esparcidas por todo un claro cielo azul.
+
+arb_Arab: teukwe y+weka x+a Tenteware Taxat+ani kename U2 hekawekai.
+hch_Latn: No pudimos decirle a nadie que el U2 había aterrizado.
+
+arb_Arab: بوماوي ميكو إروات+.
+hch_Latn: No hay interés.
+
+arb_Arab: ikwaiya aix+ p+ ane ik+ نقانق ماكوكو m+n+ +k+.
+hch_Latn: Su lasaña es genial debido a la salchicha picante que usan.
+

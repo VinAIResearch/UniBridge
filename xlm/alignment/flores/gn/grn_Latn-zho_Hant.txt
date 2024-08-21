@@ -1,0 +1,30 @@
+zho_Hant: 史丹佛大學醫學院的科學家於週一宣布發明一項新型診斷工具，可依類型將細胞分類：這是一種細小的可列印芯片，使用標準噴墨印表機就能印出，每個芯片的成本大約一美分。
+grn_Latn: Upe Arakõipe, umi cientifico kuera Medicina Mbo'ehaopavẽ Stanford Mbo'eha guasu pegua omomarandu kuri peteĩ invento tembipuru puahu diagnosticorã ikatúva oiporavo umi celula kuera iñemohendarupive: peteĩ chip michimiva ikatuva ojehai kuatia ári impresora rupive ha ojehepyme'ẽ kuaáva 1 centavo pe dolar americanore.
+
+zho_Hant: 主要研究人員表示，這或許可以讓低收入國家的癌症、肺結核、愛滋病毒及瘧疾病患早期發現病症。在這些國家，乳癌等疾病患者的存活率是較富裕國家的一半。
+grn_Latn: Umi investigador imarangatuveva he'i ko mba'e ikatuha otopa pe cancer oñepyrũjave, mba'asy po'i, VIH ha malaria umi tapicha hasyva oikova ambue tetã sa'i pirapire oguerekova, oimehape jeikove papaha cancer titiregua aimete omboku'a umi ambue tetã heta ipirapireva peguape.
+
+zho_Hant: JAS 39C 獅鷲戰鬥機在當地時間上午 9 點 30 分（世界協調時間 02:30）墜落在跑道上並爆炸，導致機場暫停商業航班的起降。
+grn_Latn: Pe JAS 39C Gripen ojetopeta kuri upe avion pistape pyhareve 9:30 kuera rupi aravo localpe (0230 TUC) ha okapu, ha oñemboty pe aeropuerto umi vuelo ñemuha reguape.
+
+zho_Hant: 駕駛員的身分確認是空軍少校帕塔維 (Dilokrit Pattavee)。
+grn_Latn: Pe piloto oñemopeteĩ kuri ha'eha Escuadron Mo'akãha Dolokrit Pattavee.
+
+zho_Hant: 當地媒體報導一輛機場消防車在出勤時翻覆。
+grn_Latn: Umi kuatia ñe'ẽ local kuera omomarandu peteĩ mba'yru rendy oñetumbava ombohovai jave oikova aeropuertope.
+
+zho_Hant: 28 歲的維達爾三個賽季前從塞維利亞足球俱樂部加入巴塞隆納足球俱樂部。
+grn_Latn: Vidal, oguerekova 28 ary, oike kuri Barçape ojapoma mbohapy ara vore, Sevilla gui.
+
+zho_Hant: 自從搬到加泰隆尼亞的首府後，比達爾已經為球隊踢了 49 場球賽。
+grn_Latn: Ou rire ko Catalan tavaguasupe, Vidal ojuga kuri 49 partido ko clubpe.
+
+zho_Hant: 抗議活動在當地時間約 11 點開始 (UTC+1)，地點在白廳街，正對著有警察駐守的唐寧街首相官邸入口。
+grn_Latn: Upe ñe'ẽnguru oñepyrũ kuri 11:00 kuera rupi aravo upepeguape (TUC+1) Whitewallpe, jeikeha guataha Downing renondepe oñatendeva tahachi kuera, upe Primer Ministro róga teete.
+
+zho_Hant: 才剛過11點，抗議者就封鎖了白廳北向車道的交通。
+grn_Latn: Upe 11:00 aravo riremi, umi ava kuera ñe'ẽnguruva ojoko mba'yru jehasa upe yvate gotyo jehoha Whitehallpe.
+
+zho_Hant: 警察在 11 點 20 分要求抗議者退回到人行道，並對抗議者表明他們得在抗議權和堵塞交通間取得平衡。
+grn_Latn: 11:20 aravope, tahachi kuera ojerure umi ava kuera ñe'ẽngurupe tojevy upe guataha rembere, omomarandu chupe kuera ha'ekuera ombojoja vaerãha upe iderecho kuera iñe'ẽnguru haguã upe mba'yru jehasa ndive.
+

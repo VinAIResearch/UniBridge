@@ -1,0 +1,30 @@
+arb_Arab: في يوم الاثنين، أعلن علماء من كلية الطب بجامعة ستانفورد عن اختراع أداة تشخيصية جديدة يمكنها تصنيف الخلايا حسب النوع: شريحة صغيرة قابلة للطباعة يمكن تصنيعها باستخدام طابعات نفاثة للحبر قياسية مقابل حوالي سنت أمريكي واحد لكل منها.
+crh_Latn: Bazartesi künü, Stanford Universiteti Tıp Fakultetinden alimler, üceyreni türlerine köre sıranen bilgen yañı bir diagnostika aletiniñ icadını: Er biri belki yaqlaşıq bir ABD tsenti içün standart mürekkep aqımlı printer qullanılıp yaratıla bilgen kiçik, yazdırıla bilir bir çip.
+
+arb_Arab: يقول الباحثون الرئيسيون أن هذا قد يؤدي إلى الكشف المبكر للسرطان والسل وفيروس العوز المناعي البشري والملاريا في البلدان ذوات الدخل المنخفض، والتي تكون فيها معدلات النجاة من الأمراض مثل سرطان الصدر نصف معدلات البلدان الأغنى.
+crh_Latn: Emiyetli araştırmacılar, bunıñ köküs rakı kibi hastalıqlar içün ayatta qalma fayızlarınıñ daa zengin ülkelerniñ yarısı qadar ola bileceği alçaq kelirli ülkelerdeki hastalarğa rak, tüberküloz, HIV ve sıtmanıñ erte safhasını tapa bilecegini ayta.
+
+arb_Arab: تحطمت طائرة جاس-٣٩ غربين على مدرج في حوالي الساعة ٩:٣٠ صباحاً بالتوقيت المحلي (٠٢٣٠ التوقيت العالمي الموحّد) وانفجرت، مما أدى إلى إغلاق المطار أمام الرحلات الجوية التجارية.
+crh_Latn: JAS 39C Gripen yerli saatnen saba 9:30 civarında (0230 UTC) bir uçuv-qonuv yolağında çarptı ve patlayaraq avaalanını ticariy uçuşlarğa qapattı.
+
+arb_Arab: تم التعرف على هوية الطيار وهي "ديلوكريت باتافي" قائد سرب الطائرات.
+crh_Latn: Uçucu Eskadrilya Komandanı Dilokrit Pattavee olğanı belirlendi.
+
+arb_Arab: أعلنت وسائل الإعلام المحلية عن انقلاب إحدى سيارات الإطفاء أثناء توجهها لإطفاء الحريق.
+crh_Latn: Yerli KHVında, bir avalimanı yanğın söndürici maşnaıñ qarşılığında çevirilgenini bildirile.
+
+arb_Arab: انضم فيدال والذي يبلغ من العمر 28 عاماً إلى نادي برشلونة قبل ثلاثة مواسم، قادماً من نادي إشبيلية.
+crh_Latn: 28 yaşındaki Vidal, üç mevsim evel Sevilladan Barçağa qatılğan edi.
+
+arb_Arab: منذ الانتقال إلى العاصمة الكتالونية، لعب فيدال 49 مباراة للنادي.
+crh_Latn: Katalan paytahtında taşınğanından berli Vidal, klup içün 49 maç oynağan edi.
+
+arb_Arab: بدأ الاحتجاج حوالي الساعة 11:00 بالتوقيت المحلي (UTC+1) في "وايتهول" في الاتجاه المقابل لشارع "داونينج" الذي تحرسه الشرطة وهو المقر الرسمي لرئيس الوزراء.
+crh_Latn: Protesto, yerli saatle (UTC+1) Whitehallda, Baş Nazir resmiy barğağı Downing Streetniñ polis tarafından qorunğan kirişiniñ qarşısında başladı.
+
+arb_Arab: بعد الساعة 11:00 بقليل، قطع المتظاهرون حركة المرور في الطريق المتجه شمالاً في وايتهول.
+crh_Latn: Saat 11:00den birden, itirazıcılar Whitehalldaki şimalğa ketken trafikni qapattılar..
+
+arb_Arab: طلبت الشرطة عند الساعة 11:20 من المحتجين العودة إلى الرصيف، مبينّة أنه يجب عليهم الموازنة بين الحق في التظاهر مع ازدياد الحركة المرورية.
+crh_Latn: Saat 11:20de polis, itiraz aqqı ile yetişken areketini muvazenet kerek olğanı belirterek itirazıcılardan qaldırımğa qaytarmasını istedi.
+

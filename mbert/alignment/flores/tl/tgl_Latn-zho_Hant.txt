@@ -1,0 +1,30 @@
+zho_Hant: 史丹佛大學醫學院的科學家於週一宣布發明一項新型診斷工具，可依類型將細胞分類：這是一種細小的可列印芯片，使用標準噴墨印表機就能印出，每個芯片的成本大約一美分。
+tgl_Latn: Noong Lunes, inanunsiyo ng mga siyentipiko mula sa Stanford University School of Medicine ang imbensyon ng panibagong kagamitan sa pag-diagnose na makakauri sa mga cell ayon sa uri: isang maliit na chip na maaaring maprint na maaaring magawa gamit ang standard inkjet na mga printer at posibleng nasa isang U.S. sentimo kada isa.
+
+zho_Hant: 主要研究人員表示，這或許可以讓低收入國家的癌症、肺結核、愛滋病毒及瘧疾病患早期發現病症。在這些國家，乳癌等疾病患者的存活率是較富裕國家的一半。
+tgl_Latn: Sinasabi ng mga namumunong tagapanaliksik na maaari itong magdala ng maagang pagkatuklas ng kanser, tuberkulosis, HIV at malarya sa mga pasyenteng nasa mga bansang may mababang kita, kung saan ang mga survival rate para sa mga sakit kagaya ng kanser sa suso ay maaaring mangalahati kumpara sa mga nasa mayayamang bansa.
+
+zho_Hant: JAS 39C 獅鷲戰鬥機在當地時間上午 9 點 30 分（世界協調時間 02:30）墜落在跑道上並爆炸，導致機場暫停商業航班的起降。
+tgl_Latn: Sumalpok ang JAS 39C Gripen sa patakbuhan ng mga 9:30 am nang lokal na oras (0230 UTC) at sumiklab, nagpatigil sa operasyon ng paliparan sa mga commercial flight.
+
+zho_Hant: 駕駛員的身分確認是空軍少校帕塔維 (Dilokrit Pattavee)。
+tgl_Latn: Kinilala ang piloto bilang ang Pinuno ng Squadron na si Dilokrit Pattavee.
+
+zho_Hant: 當地媒體報導一輛機場消防車在出勤時翻覆。
+tgl_Latn: Ang lokal na media ay nag-ulat na ang isang sasakyan ng bombero ng airport ang tumaob habang nagpapatay ng sunog.
+
+zho_Hant: 28 歲的維達爾三個賽季前從塞維利亞足球俱樂部加入巴塞隆納足球俱樂部。
+tgl_Latn: Ang 28 taong gulang na si Vidal ay sumali sa BarÃ§a tatlong season na ang nakalipas, mula sa Sevilla.
+
+zho_Hant: 自從搬到加泰隆尼亞的首府後，比達爾已經為球隊踢了 49 場球賽。
+tgl_Latn: Simula ng lumipat sa Catalan-capital, naglaro ng 49 na laro si Vidal para sa club.
+
+zho_Hant: 抗議活動在當地時間約 11 點開始 (UTC+1)，地點在白廳街，正對著有警察駐守的唐寧街首相官邸入口。
+tgl_Latn: Nagsimula ang protesta bandang 11:00 lokal na oras (UTC+1) sa Whitehall sa tapat ng binabantayan ng kapulisan na entrada sa Kalye Downing, ang opisyal na tahanan ng Punong Ministro.
+
+zho_Hant: 才剛過11點，抗議者就封鎖了白廳北向車道的交通。
+tgl_Latn: Ilang sandali lamang makalipas ang 11:00, hinadlangan ng mga nagpoprotesta ang trapiko sa kalsadang patungong hilaga sa Whitehall.
+
+zho_Hant: 警察在 11 點 20 分要求抗議者退回到人行道，並對抗議者表明他們得在抗議權和堵塞交通間取得平衡。
+tgl_Latn: Noong 11:20, hiniling ng pulisya sa mga nagpoprotesta na bumalik na sa bangketa, at sinabing kailangan nilang balansehin ang karapatang magprotesta sa pagbigat ng trapiko.
+

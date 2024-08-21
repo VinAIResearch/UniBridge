@@ -1,0 +1,30 @@
+zho_Hant: 再会！
+eml_Latn: Boun dì!
+
+zho_Hant: 你叫什么名字？
+eml_Latn: Come te ciàmet?
+
+zho_Hant: 你好吗？
+eml_Latn: Come stè?
+
+zho_Hant: 我很好谢谢。
+eml_Latn: Stò bèin, grazie.
+
+zho_Hant: 您会说艾米利亚-罗马尼奥尔语吗？
+eml_Latn: Conòsset l'Emilian-Romagnol?
+
+zho_Hant: 我了解一点艾米利亚-罗马尼奥尔语。
+eml_Latn: Capìsc un pôc d'Emilian-Romagnol.
+
+zho_Hant: 您有兴趣学习艾米利亚-罗马尼奥尔吗？
+eml_Latn: Sê interessè a imparèr l'Emilian-Romagnol?
+
+zho_Hant: 我有点感兴趣。
+eml_Latn: Sê un pôc interessè.
+
+zho_Hant: 你能教我一些艾米利亚-罗马尼奥尔语的短语吗？
+eml_Latn: Puoi insegnarme qualche frase in l'Emilian-Romagnol?
+
+zho_Hant: 艾米利亚-罗马尼奥尔并不容易，但学习起来很有趣。
+eml_Latn: L'Emilian-Romagnol l'è mia facil, ma l'è divertent da imparer.
+

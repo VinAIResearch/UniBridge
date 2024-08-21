@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+tam_Taml: திங்களன்று, ஸ்டான்போர்ட் யுனிவர்சிட்டி ஸ்கூல் ஆஃப் மெடிசின் விஞ்ஞானிகள் ஒரு புதிய நோயறிதல் கருவியின் கண்டுபிடிப்பை அறிவித்தனர், இது செல்களை வகைப்படி வரிசைப்படுத்தலாம்: ஒரு சிறிய அச்சிடக்கூடிய சில்லு, தரமான இன்க்ஜெட் அச்சுப்பொறிகளைப் பயன்படுத்தி ஒவ்வொன்றும் 1 யு.எஸ்.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+tam_Taml: இது குறைந்த வருமானம் ஈட்டும் நாடுகளில் உள்ள நோயாளிகளுக்கு புற்றுநோய், காசநோய், எச்.ஐ.வி மற்றும் மலேரியாவை முன்கூட்டியே கண்டறியும் என்று முன்னணி ஆராய்ச்சியாளர்கள் கூறுகின்றனர், மார்பக புற்றுநோய் போன்ற நோய்களுக்கான உயிர்வாழ்வு விகிதங்கள் பணக்கார நாடுகளில் பாதியாக இருக்கலாம்.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+tam_Taml: JAS 39C க்ரப்பென் விமானம் உள்ளூர் நேரம் 9:30 AM (0230 UTC) க்கு ஓடுபாதையில் விழுந்து வெடித்தது, அதனால் வணிக விமானங்களுக்கு விமான நிலையம் மூடப்பட்டது.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+tam_Taml: விமானி, ஸ்குவாட்ரான் தலைவர் திலோக்ரித் பட்டாவி என அடையாளம் காணப்பட்டார்.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+tam_Taml: தீயை அணைக்கச் சென்ற விமான நிலைய தீயணைப்பு வாகனம் கவிழ்ந்ததாக உள்ளூர் செய்தி நிறுவனங்கள் தெரிவித்தன.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+tam_Taml: 28 வயதான விடல் மூன்று பருவங்களுக்கு முன்பாக, செவில்லாவில் இருந்து பார்காவில் சேர்ந்தார்.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+tam_Taml: கடலான்-கேபிடலுக்கு மாறிய பின், விடால் அந்த கிளப்பிற்காக 49 ஆட்டங்களில் விளையாடி இருக்கிறார்.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+tam_Taml: பிரதமரின் அதிகாரபூர்வ இல்லமான வைட் ஹாலுக்கு எதிரில், உள்ளூர் நேரமான சுமார் 11:00 மணிக்கு (UTC+1) போராட்டம் தொடங்கியது. காவல்துறை அதிகாரிகள் டவுனிங் தெருவின் நுழைவாயிலை பாதுகாத்து நின்றனர்.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+tam_Taml: 11:00 மணிக்குப் பின்னர், எதிர்ப்பாளர்கள் ஒயிட்ஹாலில் வடக்கு நோக்கி செல்லும் வண்டிகளின் போக்குவரத்தைத் தடுத்தனர்.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+tam_Taml: 11:20 க்கு போலீசார், அதிகரிக்கும் போக்குவரத்து நெரிசலையும் அவர்கள் போராடும் உரிமையையும் சமமாகப் பாவிக்கக் கூறி, போராட்டக்காரர்களை நடைபாதைக்கு செல்லும்படி உத்தரவிட்டனர்.
+

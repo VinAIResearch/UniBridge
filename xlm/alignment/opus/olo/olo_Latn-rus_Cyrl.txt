@@ -1,0 +1,30 @@
+rus_Cyrl: Он также является продюсером своей компании Adel Productions, а также снял два фильма.
+olo_Latn: Hän on houkutellut yli 134 miljoonaa ihmistä elokuvateatteriin, ja hän on yksi arvostetuimmista ja kuuluisimmista näyttelijöistä Euroopassa. 
+
+rus_Cyrl: Он расположен на северо-восточном берегу озера Ворузъярви в 65 км от города Олонец.
+olo_Latn: Se sijoittuu Voruzjärven koillisrannal, 65 kilometrin piäs Anuksespäi koillizeh. 
+
+rus_Cyrl: В XIX веке он назывался Ребоинсельги и принадлежал Олонецкому уезду Олонецкой губернии.
+olo_Latn: XIX vuozisual tädä kyliä kučuttih Reboinselgy (Lisja Sel’gä), kudai kuului Kotkatjärven voulostih Anuksen ujezdah. 
+
+rus_Cyrl: Во время второй русско-финской войны (1941-1944 гг.) город был практически разрушен, а после войны были построены дома для лесников.
+olo_Latn: Konzu voinu Nevvostoliiton da Suomen välis (1941 – 1944) loppui, rakendettih mečänruadajien pos’olku. 
+
+rus_Cyrl: В 2009 году был возведен православный храм во имя преподобного Фаддея Петрозаводского.
+olo_Latn: Vuonnu 2009 rakendettih pravosluavnoi kirikkö (ven. православный храм во имя святого блаженного Фаддея Петрозаводского). 
+
+rus_Cyrl: В 1959 году в поселке проживало 900 жителей.
+olo_Latn: Vuonnu 1959 pos’olkas eli 900 hengie. 
+
+rus_Cyrl: Ким Ир Сен (1912–1994) был первым лидером Корейской Народно-Демократической Республики.
+olo_Latn: Kim Il-sung (1912-1994) oli North Korea muan prezidentu. 
+
+rus_Cyrl: Авнепорог — село в составе Криворожского сельского поселения Кемского района Республики Карелия.
+olo_Latn: Авнепорог on Karjalan tazavallan Kemin piirin Viärykosken kyläkunnan pos’olku. 
+
+rus_Cyrl: Холмат Намозович Одилов (таджик. Таджик: 28 сентября 2004, Гелон, Кашкадарьинская область, Узбекистан) — российский певец, музыкант, продюсер, певец-композитор. Основатель музыкального лейбла «ASMusicX Group».
+olo_Latn: Kholmat Namozovich Odilov (tadžikistan: , 28. syyskuuta 2004, Gelon, Kashkadaryan alue, Uzbekistan) on venäläinen laulaja, muusikko, tuottaja, laulaja-säveltäjä. A.S.MusicX Group -levy-yhtiön perustaja.
+
+rus_Cyrl: демография
+olo_Latn: Rahvahan lugumiäry 
+

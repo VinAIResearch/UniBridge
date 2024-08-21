@@ -1,0 +1,30 @@
+eng_Latn: Noyai 20,000 miles horatibi winoa.
+shp_Latn: Vuela más de 20 000 millas por hora.
+
+eng_Latn: Jainra ikatiai kikin icha xobo kopimabo.
+shp_Latn: La mayor parte de la zona estaba llena de casas baratas.
+
+eng_Latn: 5 million $ Bill Gatesnin menike.
+shp_Latn: Bill Gates nos donó 5 millones $.
+
+eng_Latn: Nato biomasboanra akai yoinabo manish meran ikatikanai keska akin.
+shp_Latn: Los biomas simulan los entornos de vida natural de los animales.
+
+eng_Latn: Yometsoboan kemariki ochitibo.
+shp_Latn: A los ladrones no les gustan los perros.
+
+eng_Latn: Beboinra bochoaxra, onanti ikai jatsan.
+shp_Latn: Si hay una sobrecarga, hay un ruido que la acompaña.
+
+eng_Latn: In shinanara ja ikonma iki.
+shp_Latn: No creo que eso sea cierto.
+
+eng_Latn: Santora ika iki menonakekian koiranainko especialmeti kikin jawen keen ikentian.
+shp_Latn: Santo se especializó en seguridad contra incendios porque era un problema que le era muy querido.
+
+eng_Latn: P. S.: IMA jaweki menitira itiki kikin jakon christmas gift.
+shp_Latn: P. S.: Una donación de tributo al IMA es un maravilloso regalo navideño.
+
+eng_Latn: I.U. itan nonra kikin important yoiyai.
+shp_Latn: Nosotros y la I.U. considera que eres importante.
+

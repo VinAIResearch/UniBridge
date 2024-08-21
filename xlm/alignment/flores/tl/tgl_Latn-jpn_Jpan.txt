@@ -1,0 +1,30 @@
+jpn_Jpan: 月曜日にスタンフォード大学医学部の科学者たちは、細胞を種類別に分類できる新しい診断ツールを発明したと発表しました。それは標準的なインクジェットプリンタで印刷して製造できる小型チップであり、原価は1枚あたり1円ほどす。
+tgl_Latn: Noong Lunes, inanunsiyo ng mga siyentipiko mula sa Stanford University School of Medicine ang imbensyon ng panibagong kagamitan sa pag-diagnose na makakauri sa mga cell ayon sa uri: isang maliit na chip na maaaring maprint na maaaring magawa gamit ang standard inkjet na mga printer at posibleng nasa isang U.S. sentimo kada isa.
+
+jpn_Jpan: 主任研究者は、これは低所得国における患者の癌、結核、HIV、マラリアの早期発見につながる可能性があると述べます。こうした国では、乳がんなどの病気の生存率が豊かな国の半分になることもあるとされます。
+tgl_Latn: Sinasabi ng mga namumunong tagapanaliksik na maaari itong magdala ng maagang pagkatuklas ng kanser, tuberkulosis, HIV at malarya sa mga pasyenteng nasa mga bansang may mababang kita, kung saan ang mga survival rate para sa mga sakit kagaya ng kanser sa suso ay maaaring mangalahati kumpara sa mga nasa mayayamang bansa.
+
+jpn_Jpan: JAS 39Cグリペンは現地時間の午前9時30分頃（UTC 0230）に滑走路に墜落して爆発し、その影響で空港の商業便が閉鎖されました。
+tgl_Latn: Sumalpok ang JAS 39C Gripen sa patakbuhan ng mga 9:30 am nang lokal na oras (0230 UTC) at sumiklab, nagpatigil sa operasyon ng paliparan sa mga commercial flight.
+
+jpn_Jpan: 操縦士は中隊長のディロクリット・パタヴェー氏であることが確認されました。
+tgl_Latn: Kinilala ang piloto bilang ang Pinuno ng Squadron na si Dilokrit Pattavee.
+
+jpn_Jpan: 地元メディアの報道によると、空港の消防車が対応中に横転したということです。
+tgl_Latn: Ang lokal na media ay nag-ulat na ang isang sasakyan ng bombero ng airport ang tumaob habang nagpapatay ng sunog.
+
+jpn_Jpan: 28歳のビダル選手は、3シーズン前にセビージャから移籍してバルサに所属していました。
+tgl_Latn: Ang 28 taong gulang na si Vidal ay sumali sa BarÃ§a tatlong season na ang nakalipas, mula sa Sevilla.
+
+jpn_Jpan: カタルーニャの州都に移って以来、ビダルはクラブで49試合に出場しました。
+tgl_Latn: Simula ng lumipat sa Catalan-capital, naglaro ng 49 na laro si Vidal para sa club.
+
+jpn_Jpan: 抗議行動は、現地時間11:00（UTC+1）頃にホワイトホール通りで始まり、首相官邸があるダウニング街の警察が警備する入口の向かいに群衆が集結しました。
+tgl_Latn: Nagsimula ang protesta bandang 11:00 lokal na oras (UTC+1) sa Whitehall sa tapat ng binabantayan ng kapulisan na entrada sa Kalye Downing, ang opisyal na tahanan ng Punong Ministro.
+
+jpn_Jpan: 11時すぎちょうどに抗議者たちはホワイトホールの北行き車両の交通を遮断しました。
+tgl_Latn: Ilang sandali lamang makalipas ang 11:00, hinadlangan ng mga nagpoprotesta ang trapiko sa kalsadang patungong hilaga sa Whitehall.
+
+jpn_Jpan: 11時20分になると、警察は抗議する権利と交通量のバランスを弁える必要があると告げて、抗議者たちに歩道に戻るように求めました。
+tgl_Latn: Noong 11:20, hiniling ng pulisya sa mga nagpoprotesta na bumalik na sa bangketa, at sinabing kailangan nilang balansehin ang karapatang magprotesta sa pagbigat ng trapiko.
+

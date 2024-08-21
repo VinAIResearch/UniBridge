@@ -1,0 +1,30 @@
+rus_Cyrl: йемек+ п+кей ти эниет+йа.
+hch_Latn: Y en realidad no lo entendió.
+
+rus_Cyrl: непеуйе х+ва ва+ка иваурика м+к+ нем+та й+н+ ке анеме каксу нем+нанени
+hch_Latn: Necesito más información para decidir qué tipo de coche quiero comprar.
+
+rus_Cyrl: pe h+k+t+kai metsi+ra+ ye tsie nieka ti+x+kat+.
+hch_Latn: Era una selva tropical.
+
+rus_Cyrl: heimana rieka, pexeiya ik+ m+tema wi+r+k+ menteti mani k+ memetsa weiya memetse +ket+ a xanetsika.
+hch_Latn: Además, tiene la satisfacción de saber que sus colegas están siendo instados a emular su buen juicio.
+
+rus_Cyrl: m+k+ k+ axapeure ka eriet+ yeika.
+hch_Latn: Y eso te hace sentir fatal.
+
+rus_Cyrl: neuti wewie tita tita nentita wewieni hik+.
+hch_Latn: Estoy haciendo lo que debo hacer hoy.
+
+rus_Cyrl: peuta tsanix+a hai tuxat+ naitsarie aix+ rek+y+ ta heima meuyuawi.
+hch_Latn: jirones de nubes blancas esparcidas por todo un claro cielo azul.
+
+rus_Cyrl: teukwe y+weka x+a tenteware Taxat+ani kename U2 hekawekai.
+hch_Latn: No pudimos decirle a nadie que el U2 había aterrizado.
+
+rus_Cyrl: пумаве мейку эриват+.
+hch_Latn: No hay interés.
+
+rus_Cyrl: икваия aix+ p+ ane ik+ колбаса макуку m+n+ +k+.
+hch_Latn: Su lasaña es genial debido a la salchicha picante que usan.
+

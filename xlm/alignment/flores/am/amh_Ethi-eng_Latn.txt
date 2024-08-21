@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+amh_Ethi: ሰኞ እለት፣ በስታንፎርድ ዩኒቨርሲቲ የህክምና ትምህርት ቤት ህዋሶችን በአይነት የሚያስቀምጥ አዲስ የምርመራ መሳሪያ እንደተፈጠረ አስታውቋል፡ እያንዳንዱን በአንደ የዩ.ኤስ ሳንቲም የሚሆን መደበኛ የኢንክጄት አታሚዎችን በመጠቀም ሊፈበረክ የሚችል ትንሽ መታተም የሚችል ቺፕ።
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+amh_Ethi: መሪ ተመራማሪዎች እንደ ጡት ካንሰር ላሉ በሽታዎች የመትረፍ መጠን ከሀብታሞች ሀገራት ግማሽ ለሆነት ዝቅተኛ ገቢ ሀገራት ይህ የካሰር፣ የንሳባ ነቀርሳ፣ HIV እና የወባ በሽታ ቀደም ብሎ ማወቅን ሊያመጣ ይችላል ይላሉ።
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+amh_Ethi: JAS 39C Gripen በማኮብኮብያ ሜዳ ላይ በ9፡30 am አካባቢያዊ ሰዕት (0230 UTC) ተከሰከሰ እና ፈነዳ፣ ስለሆነም ያንን የአየር ማረፊያ ለንግድ በረራውች ዝግ አደረገው።
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+amh_Ethi: የአውሮፕላን አብራሪው የአየር ሀይል መሪ ዲሎክሪት ፓታቪ ሆኖ ተለይቷል።
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+amh_Ethi: የአካባቢው መገናኛ ብዙሐን እንደዘገበው አንድ የአየር ማረፊያ የእሳት አደጋ ተሽከርካሪ በስራ ላይ እንዳለ ተገልብጧል።
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+amh_Ethi: የ28 አመቱ ቪዳል ከሲልቪያ ባርሳን ከሶስት አመት በፊት ተቀላቅሏል።
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+amh_Ethi: ወደ ካታላን ዋና ከተዘዋወረ ጀምሮ፣ ቪዳል ለክለቡ 49 ጨዋታዎችን ተጫውቷል።
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+amh_Ethi: ተቃውሞው ወደ 11፡00 አካባቢያዊ ሰዕት (UTC+1) በዋይትሆል ወደ ዳውኒንግ መንገድ፣ የጠቅላይ ሚኒስተሩ ይፋ መኖሪያ በፖሊስ ከተጠበቀው መግቢያ በተቃራኒ ጀምሯል።
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+amh_Ethi: ከ11፡00 በኋላ፣ ተቃዋሚዎች በዋይትሆል ውስጥ ወደ ሰሜን በሚሄደው ጋሪ ላይ መንገድ ዘጉ።
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+amh_Ethi: የመቃወም መብትን ከመኪና መንገድ መጨናነቅ ጋር መመጣጠን አለበት በማለት 11፡20 ላይ ፖሊሶች ተቋሚዎቹን ወደ እግረኛ መንገድ እንዲመለሱ ጠየቁ።
+

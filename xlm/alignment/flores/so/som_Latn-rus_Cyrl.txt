@@ -1,0 +1,30 @@
+rus_Cyrl: В понедельник ученые из Медицинской школы Стэнфордского университета объявили об изобретении нового диагностического инструмента, который может сортировать клетки по их типу; это маленький чип, который можно напечатать, используя стандартный струйный принтер примерно за 1 цент США.
+som_Latn: Maalinta Isniinta, saynis yahano ka socda Jamacada Stanford ee Iskuul Caafimadka waxay ku dhawaaqeen sameynta qalab daweyn cusub lagu habeyn karo unugyada : kuwa yar yar ee lagu soo saari karo muditan waxaana macquul ah in lagu soo saro Mareykan ka mid walba.
+
+rus_Cyrl: Ведущие исследователи утверждают, что он может помочь в раннем выявлении рака, туберкулеза, ВИЧ и малярии у пациентов в странах с низким уровнем дохода, где показатели выживаемости при таких болезнях, как рак молочной железы, могут быть в два раза ниже, чем в более богатых странах.
+som_Latn: Hogaamiyaasha cilmi barista waxay sheegen tani in ay hor seedi karto lagu ogaan karo xanuunka kansarka, xanuunka sanbabada HIV ga iyo bukaanada duumadawadama dhaqaalahooda hooseya, halkaas oo ay heerka samata baxa xanuunada sida kansarka ku dhaca nasaha taaso u dhigmeysa qeyb un marka loo barbar dhigo wadamada qaniga ah.
+
+rus_Cyrl: Приблизительно в 9:30 по местному времени (02:30 UTC) JAS 39C Gripen упал на взлетно-посадочную полосу и взорвался. Аэропорт пришлось закрыть для коммерческих рейсов.
+som_Latn: JAS 39C Gripen ayaa ku dhacday dhabbada diyaaradaha abbaaro 9:30 waqtiga maxalliga ah (0230 UTC) oo qaraxday, taasoo madaarka ka xirtay duulimaadada ganacsiga.
+
+rus_Cyrl: Личность пилота была установлена. Им оказался командир эскадрильи Дилокрит Паттави.
+som_Latn: Bayloodka waxaa lagu suntay hogaamiyaha Dilokrit Pattavee.
+
+rus_Cyrl: Местные СМИ сообщают, что в аэропорту по пути на вызов перевернулась пожарная машина.
+som_Latn: Warbixinada deegaaneed ayaa sheegaayo in baabuurka dab damiska garoonka diyaarada uu gadoomay intuu u socday meesha.
+
+rus_Cyrl: 28-летний Алеш Видаль перешел в "Барсу" из "Севильи" три сезона назад.
+som_Latn: 28 sannadood jirka Fiidal ayaa ku biiray Barsa saddex xilli ciyaareed ka hor, isagoo ka yimi Seffiila.
+
+rus_Cyrl: После переезда в столицу Каталонии  Видаль провел за клуб 49 матчей.
+som_Latn: Ka dib intuu u guuray caasimadda Catalan, Vidal ayaa kooxda u ciyaaray 49 ciyaar.
+
+rus_Cyrl: Протест начался около 11:00 по местному времени (UTC+1) на улице Уайтхолл напротив охраняемого полицией въезда на Даунинг-стрит, официальную резиденцию премьер-министра.
+som_Latn: Dibad baxa wuxuu bilaabmay ilaa sacaada marka ay aheyd 11:00 (UTC+1) ka soo horjeedka Whitehall meelaha ay ilaaliyaan askarta Downing Street, ee Reesal Wasaraha rasmiga ee degan halka.
+
+rus_Cyrl: Сразу после 11:00 протестующие перекрыли движение в северном направлении по Уайтхоллу.
+som_Latn: Waxyar 11:00 ka dib, mudaharaadayaal ayaa xanibay baabuurta waqooyi u socda ee Whitehall.
+
+rus_Cyrl: В 11:20 полиция попросила митингующих вернуться на тротуар, заявив, что им необходимо соблюдать баланс между правом протестовать и задержкой дорожного движения.
+som_Latn: Markay ahayd 11:20, booliisku waxay ka codsadeen mudaaharaadayaasha inay dib ugu noqdaan waddada laamiga, iyaga oo sheegay inay u baahan yihiin isku dheelitiranka xaqa ay u leeyihin mudaaharadka iyo saxmadda taraafigga ee dhismaysa.
+

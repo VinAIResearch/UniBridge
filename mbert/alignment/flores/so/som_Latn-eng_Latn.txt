@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+som_Latn: Maalinta Isniinta, saynis yahano ka socda Jamacada Stanford ee Iskuul Caafimadka waxay ku dhawaaqeen sameynta qalab daweyn cusub lagu habeyn karo unugyada : kuwa yar yar ee lagu soo saari karo muditan waxaana macquul ah in lagu soo saro Mareykan ka mid walba.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+som_Latn: Hogaamiyaasha cilmi barista waxay sheegen tani in ay hor seedi karto lagu ogaan karo xanuunka kansarka, xanuunka sanbabada HIV ga iyo bukaanada duumadawadama dhaqaalahooda hooseya, halkaas oo ay heerka samata baxa xanuunada sida kansarka ku dhaca nasaha taaso u dhigmeysa qeyb un marka loo barbar dhigo wadamada qaniga ah.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+som_Latn: JAS 39C Gripen ayaa ku dhacday dhabbada diyaaradaha abbaaro 9:30 waqtiga maxalliga ah (0230 UTC) oo qaraxday, taasoo madaarka ka xirtay duulimaadada ganacsiga.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+som_Latn: Bayloodka waxaa lagu suntay hogaamiyaha Dilokrit Pattavee.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+som_Latn: Warbixinada deegaaneed ayaa sheegaayo in baabuurka dab damiska garoonka diyaarada uu gadoomay intuu u socday meesha.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+som_Latn: 28 sannadood jirka Fiidal ayaa ku biiray Barsa saddex xilli ciyaareed ka hor, isagoo ka yimi Seffiila.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+som_Latn: Ka dib intuu u guuray caasimadda Catalan, Vidal ayaa kooxda u ciyaaray 49 ciyaar.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+som_Latn: Dibad baxa wuxuu bilaabmay ilaa sacaada marka ay aheyd 11:00 (UTC+1) ka soo horjeedka Whitehall meelaha ay ilaaliyaan askarta Downing Street, ee Reesal Wasaraha rasmiga ee degan halka.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+som_Latn: Waxyar 11:00 ka dib, mudaharaadayaal ayaa xanibay baabuurta waqooyi u socda ee Whitehall.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+som_Latn: Markay ahayd 11:20, booliisku waxay ka codsadeen mudaaharaadayaasha inay dib ugu noqdaan waddada laamiga, iyaga oo sheegay inay u baahan yihiin isku dheelitiranka xaqa ay u leeyihin mudaaharadka iyo saxmadda taraafigga ee dhismaysa.
+

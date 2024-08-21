@@ -1,0 +1,30 @@
+arb_Arab: في يوم الاثنين، أعلن علماء من كلية الطب بجامعة ستانفورد عن اختراع أداة تشخيصية جديدة يمكنها تصنيف الخلايا حسب النوع: شريحة صغيرة قابلة للطباعة يمكن تصنيعها باستخدام طابعات نفاثة للحبر قياسية مقابل حوالي سنت أمريكي واحد لكل منها.
+tgl_Latn: Noong Lunes, inanunsiyo ng mga siyentipiko mula sa Stanford University School of Medicine ang imbensyon ng panibagong kagamitan sa pag-diagnose na makakauri sa mga cell ayon sa uri: isang maliit na chip na maaaring maprint na maaaring magawa gamit ang standard inkjet na mga printer at posibleng nasa isang U.S. sentimo kada isa.
+
+arb_Arab: يقول الباحثون الرئيسيون أن هذا قد يؤدي إلى الكشف المبكر للسرطان والسل وفيروس العوز المناعي البشري والملاريا في البلدان ذوات الدخل المنخفض، والتي تكون فيها معدلات النجاة من الأمراض مثل سرطان الصدر نصف معدلات البلدان الأغنى.
+tgl_Latn: Sinasabi ng mga namumunong tagapanaliksik na maaari itong magdala ng maagang pagkatuklas ng kanser, tuberkulosis, HIV at malarya sa mga pasyenteng nasa mga bansang may mababang kita, kung saan ang mga survival rate para sa mga sakit kagaya ng kanser sa suso ay maaaring mangalahati kumpara sa mga nasa mayayamang bansa.
+
+arb_Arab: تحطمت طائرة جاس-٣٩ غربين على مدرج في حوالي الساعة ٩:٣٠ صباحاً بالتوقيت المحلي (٠٢٣٠ التوقيت العالمي الموحّد) وانفجرت، مما أدى إلى إغلاق المطار أمام الرحلات الجوية التجارية.
+tgl_Latn: Sumalpok ang JAS 39C Gripen sa patakbuhan ng mga 9:30 am nang lokal na oras (0230 UTC) at sumiklab, nagpatigil sa operasyon ng paliparan sa mga commercial flight.
+
+arb_Arab: تم التعرف على هوية الطيار وهي "ديلوكريت باتافي" قائد سرب الطائرات.
+tgl_Latn: Kinilala ang piloto bilang ang Pinuno ng Squadron na si Dilokrit Pattavee.
+
+arb_Arab: أعلنت وسائل الإعلام المحلية عن انقلاب إحدى سيارات الإطفاء أثناء توجهها لإطفاء الحريق.
+tgl_Latn: Ang lokal na media ay nag-ulat na ang isang sasakyan ng bombero ng airport ang tumaob habang nagpapatay ng sunog.
+
+arb_Arab: انضم فيدال والذي يبلغ من العمر 28 عاماً إلى نادي برشلونة قبل ثلاثة مواسم، قادماً من نادي إشبيلية.
+tgl_Latn: Ang 28 taong gulang na si Vidal ay sumali sa BarÃ§a tatlong season na ang nakalipas, mula sa Sevilla.
+
+arb_Arab: منذ الانتقال إلى العاصمة الكتالونية، لعب فيدال 49 مباراة للنادي.
+tgl_Latn: Simula ng lumipat sa Catalan-capital, naglaro ng 49 na laro si Vidal para sa club.
+
+arb_Arab: بدأ الاحتجاج حوالي الساعة 11:00 بالتوقيت المحلي (UTC+1) في "وايتهول" في الاتجاه المقابل لشارع "داونينج" الذي تحرسه الشرطة وهو المقر الرسمي لرئيس الوزراء.
+tgl_Latn: Nagsimula ang protesta bandang 11:00 lokal na oras (UTC+1) sa Whitehall sa tapat ng binabantayan ng kapulisan na entrada sa Kalye Downing, ang opisyal na tahanan ng Punong Ministro.
+
+arb_Arab: بعد الساعة 11:00 بقليل، قطع المتظاهرون حركة المرور في الطريق المتجه شمالاً في وايتهول.
+tgl_Latn: Ilang sandali lamang makalipas ang 11:00, hinadlangan ng mga nagpoprotesta ang trapiko sa kalsadang patungong hilaga sa Whitehall.
+
+arb_Arab: طلبت الشرطة عند الساعة 11:20 من المحتجين العودة إلى الرصيف، مبينّة أنه يجب عليهم الموازنة بين الحق في التظاهر مع ازدياد الحركة المرورية.
+tgl_Latn: Noong 11:20, hiniling ng pulisya sa mga nagpoprotesta na bumalik na sa bangketa, at sinabing kailangan nilang balansehin ang karapatang magprotesta sa pagbigat ng trapiko.
+

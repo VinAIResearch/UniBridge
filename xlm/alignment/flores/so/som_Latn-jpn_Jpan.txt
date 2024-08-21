@@ -1,0 +1,30 @@
+jpn_Jpan: 月曜日にスタンフォード大学医学部の科学者たちは、細胞を種類別に分類できる新しい診断ツールを発明したと発表しました。それは標準的なインクジェットプリンタで印刷して製造できる小型チップであり、原価は1枚あたり1円ほどす。
+som_Latn: Maalinta Isniinta, saynis yahano ka socda Jamacada Stanford ee Iskuul Caafimadka waxay ku dhawaaqeen sameynta qalab daweyn cusub lagu habeyn karo unugyada : kuwa yar yar ee lagu soo saari karo muditan waxaana macquul ah in lagu soo saro Mareykan ka mid walba.
+
+jpn_Jpan: 主任研究者は、これは低所得国における患者の癌、結核、HIV、マラリアの早期発見につながる可能性があると述べます。こうした国では、乳がんなどの病気の生存率が豊かな国の半分になることもあるとされます。
+som_Latn: Hogaamiyaasha cilmi barista waxay sheegen tani in ay hor seedi karto lagu ogaan karo xanuunka kansarka, xanuunka sanbabada HIV ga iyo bukaanada duumadawadama dhaqaalahooda hooseya, halkaas oo ay heerka samata baxa xanuunada sida kansarka ku dhaca nasaha taaso u dhigmeysa qeyb un marka loo barbar dhigo wadamada qaniga ah.
+
+jpn_Jpan: JAS 39Cグリペンは現地時間の午前9時30分頃（UTC 0230）に滑走路に墜落して爆発し、その影響で空港の商業便が閉鎖されました。
+som_Latn: JAS 39C Gripen ayaa ku dhacday dhabbada diyaaradaha abbaaro 9:30 waqtiga maxalliga ah (0230 UTC) oo qaraxday, taasoo madaarka ka xirtay duulimaadada ganacsiga.
+
+jpn_Jpan: 操縦士は中隊長のディロクリット・パタヴェー氏であることが確認されました。
+som_Latn: Bayloodka waxaa lagu suntay hogaamiyaha Dilokrit Pattavee.
+
+jpn_Jpan: 地元メディアの報道によると、空港の消防車が対応中に横転したということです。
+som_Latn: Warbixinada deegaaneed ayaa sheegaayo in baabuurka dab damiska garoonka diyaarada uu gadoomay intuu u socday meesha.
+
+jpn_Jpan: 28歳のビダル選手は、3シーズン前にセビージャから移籍してバルサに所属していました。
+som_Latn: 28 sannadood jirka Fiidal ayaa ku biiray Barsa saddex xilli ciyaareed ka hor, isagoo ka yimi Seffiila.
+
+jpn_Jpan: カタルーニャの州都に移って以来、ビダルはクラブで49試合に出場しました。
+som_Latn: Ka dib intuu u guuray caasimadda Catalan, Vidal ayaa kooxda u ciyaaray 49 ciyaar.
+
+jpn_Jpan: 抗議行動は、現地時間11:00（UTC+1）頃にホワイトホール通りで始まり、首相官邸があるダウニング街の警察が警備する入口の向かいに群衆が集結しました。
+som_Latn: Dibad baxa wuxuu bilaabmay ilaa sacaada marka ay aheyd 11:00 (UTC+1) ka soo horjeedka Whitehall meelaha ay ilaaliyaan askarta Downing Street, ee Reesal Wasaraha rasmiga ee degan halka.
+
+jpn_Jpan: 11時すぎちょうどに抗議者たちはホワイトホールの北行き車両の交通を遮断しました。
+som_Latn: Waxyar 11:00 ka dib, mudaharaadayaal ayaa xanibay baabuurta waqooyi u socda ee Whitehall.
+
+jpn_Jpan: 11時20分になると、警察は抗議する権利と交通量のバランスを弁える必要があると告げて、抗議者たちに歩道に戻るように求めました。
+som_Latn: Markay ahayd 11:20, booliisku waxay ka codsadeen mudaaharaadayaasha inay dib ugu noqdaan waddada laamiga, iyaga oo sheegay inay u baahan yihiin isku dheelitiranka xaqa ay u leeyihin mudaaharadka iyo saxmadda taraafigga ee dhismaysa.
+

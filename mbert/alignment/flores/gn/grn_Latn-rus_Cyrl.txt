@@ -1,0 +1,30 @@
+rus_Cyrl: В понедельник ученые из Медицинской школы Стэнфордского университета объявили об изобретении нового диагностического инструмента, который может сортировать клетки по их типу; это маленький чип, который можно напечатать, используя стандартный струйный принтер примерно за 1 цент США.
+grn_Latn: Upe Arakõipe, umi cientifico kuera Medicina Mbo'ehaopavẽ Stanford Mbo'eha guasu pegua omomarandu kuri peteĩ invento tembipuru puahu diagnosticorã ikatúva oiporavo umi celula kuera iñemohendarupive: peteĩ chip michimiva ikatuva ojehai kuatia ári impresora rupive ha ojehepyme'ẽ kuaáva 1 centavo pe dolar americanore.
+
+rus_Cyrl: Ведущие исследователи утверждают, что он может помочь в раннем выявлении рака, туберкулеза, ВИЧ и малярии у пациентов в странах с низким уровнем дохода, где показатели выживаемости при таких болезнях, как рак молочной железы, могут быть в два раза ниже, чем в более богатых странах.
+grn_Latn: Umi investigador imarangatuveva he'i ko mba'e ikatuha otopa pe cancer oñepyrũjave, mba'asy po'i, VIH ha malaria umi tapicha hasyva oikova ambue tetã sa'i pirapire oguerekova, oimehape jeikove papaha cancer titiregua aimete omboku'a umi ambue tetã heta ipirapireva peguape.
+
+rus_Cyrl: Приблизительно в 9:30 по местному времени (02:30 UTC) JAS 39C Gripen упал на взлетно-посадочную полосу и взорвался. Аэропорт пришлось закрыть для коммерческих рейсов.
+grn_Latn: Pe JAS 39C Gripen ojetopeta kuri upe avion pistape pyhareve 9:30 kuera rupi aravo localpe (0230 TUC) ha okapu, ha oñemboty pe aeropuerto umi vuelo ñemuha reguape.
+
+rus_Cyrl: Личность пилота была установлена. Им оказался командир эскадрильи Дилокрит Паттави.
+grn_Latn: Pe piloto oñemopeteĩ kuri ha'eha Escuadron Mo'akãha Dolokrit Pattavee.
+
+rus_Cyrl: Местные СМИ сообщают, что в аэропорту по пути на вызов перевернулась пожарная машина.
+grn_Latn: Umi kuatia ñe'ẽ local kuera omomarandu peteĩ mba'yru rendy oñetumbava ombohovai jave oikova aeropuertope.
+
+rus_Cyrl: 28-летний Алеш Видаль перешел в "Барсу" из "Севильи" три сезона назад.
+grn_Latn: Vidal, oguerekova 28 ary, oike kuri Barçape ojapoma mbohapy ara vore, Sevilla gui.
+
+rus_Cyrl: После переезда в столицу Каталонии  Видаль провел за клуб 49 матчей.
+grn_Latn: Ou rire ko Catalan tavaguasupe, Vidal ojuga kuri 49 partido ko clubpe.
+
+rus_Cyrl: Протест начался около 11:00 по местному времени (UTC+1) на улице Уайтхолл напротив охраняемого полицией въезда на Даунинг-стрит, официальную резиденцию премьер-министра.
+grn_Latn: Upe ñe'ẽnguru oñepyrũ kuri 11:00 kuera rupi aravo upepeguape (TUC+1) Whitewallpe, jeikeha guataha Downing renondepe oñatendeva tahachi kuera, upe Primer Ministro róga teete.
+
+rus_Cyrl: Сразу после 11:00 протестующие перекрыли движение в северном направлении по Уайтхоллу.
+grn_Latn: Upe 11:00 aravo riremi, umi ava kuera ñe'ẽnguruva ojoko mba'yru jehasa upe yvate gotyo jehoha Whitehallpe.
+
+rus_Cyrl: В 11:20 полиция попросила митингующих вернуться на тротуар, заявив, что им необходимо соблюдать баланс между правом протестовать и задержкой дорожного движения.
+grn_Latn: 11:20 aravope, tahachi kuera ojerure umi ava kuera ñe'ẽngurupe tojevy upe guataha rembere, omomarandu chupe kuera ha'ekuera ombojoja vaerãha upe iderecho kuera iñe'ẽnguru haguã upe mba'yru jehasa ndive.
+

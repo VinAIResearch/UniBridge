@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+tgl_Latn: Noong Lunes, inanunsiyo ng mga siyentipiko mula sa Stanford University School of Medicine ang imbensyon ng panibagong kagamitan sa pag-diagnose na makakauri sa mga cell ayon sa uri: isang maliit na chip na maaaring maprint na maaaring magawa gamit ang standard inkjet na mga printer at posibleng nasa isang U.S. sentimo kada isa.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+tgl_Latn: Sinasabi ng mga namumunong tagapanaliksik na maaari itong magdala ng maagang pagkatuklas ng kanser, tuberkulosis, HIV at malarya sa mga pasyenteng nasa mga bansang may mababang kita, kung saan ang mga survival rate para sa mga sakit kagaya ng kanser sa suso ay maaaring mangalahati kumpara sa mga nasa mayayamang bansa.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+tgl_Latn: Sumalpok ang JAS 39C Gripen sa patakbuhan ng mga 9:30 am nang lokal na oras (0230 UTC) at sumiklab, nagpatigil sa operasyon ng paliparan sa mga commercial flight.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+tgl_Latn: Kinilala ang piloto bilang ang Pinuno ng Squadron na si Dilokrit Pattavee.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+tgl_Latn: Ang lokal na media ay nag-ulat na ang isang sasakyan ng bombero ng airport ang tumaob habang nagpapatay ng sunog.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+tgl_Latn: Ang 28 taong gulang na si Vidal ay sumali sa BarÃ§a tatlong season na ang nakalipas, mula sa Sevilla.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+tgl_Latn: Simula ng lumipat sa Catalan-capital, naglaro ng 49 na laro si Vidal para sa club.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+tgl_Latn: Nagsimula ang protesta bandang 11:00 lokal na oras (UTC+1) sa Whitehall sa tapat ng binabantayan ng kapulisan na entrada sa Kalye Downing, ang opisyal na tahanan ng Punong Ministro.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+tgl_Latn: Ilang sandali lamang makalipas ang 11:00, hinadlangan ng mga nagpoprotesta ang trapiko sa kalsadang patungong hilaga sa Whitehall.
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+tgl_Latn: Noong 11:20, hiniling ng pulisya sa mga nagpoprotesta na bumalik na sa bangketa, at sinabing kailangan nilang balansehin ang karapatang magprotesta sa pagbigat ng trapiko.
+

@@ -1,0 +1,29 @@
+hch_Latn: yemek+ p+kei ti eniet+ya.
+spa_Latn: Y en realidad no lo entendió.
+
+hch_Latn: nepeuye h+wa wa+ka iwaurika m+k+ nem+ta y+n+ ke aneme kaxu nem+naneni
+spa_Latn: Necesito más información para decidir qué tipo de coche quiero comprar.
+
+hch_Latn: pe h+k+t+kai metsi+ra+ ye tsie nieka ti+x+kat+.
+spa_Latn: Era una selva tropical.
+
+hch_Latn: heimana rieka, pexeiya ik+ m+tema wi+r+k+ menteti mani k+ memetsa weiya memetse +ket+ a xanetsika.
+spa_Latn: Además, tiene la satisfacción de saber que sus colegas están siendo instados a emular su buen juicio.
+
+hch_Latn: m+k+ k+ axapeure ka eriet+ yeika.
+spa_Latn: Y eso te hace sentir fatal.
+
+hch_Latn: neuti wewie tita tita nentita wewieni hik+.
+spa_Latn: Estoy haciendo lo que debo hacer hoy.
+
+hch_Latn: peuta tsanix+a hai tuxat+ naitsarie aix+ rek+y+ ta heima meuyuawi.
+spa_Latn: jirones de nubes blancas esparcidas por todo un claro cielo azul.
+
+hch_Latn: teukwe y+weka x+a tenteware taxat+ani  kename U2 hekawekai.
+spa_Latn: No pudimos decirle a nadie que el U2 había aterrizado.
+
+hch_Latn: pumawe meiku eriwat+.
+spa_Latn: No hay interés.
+
+hch_Latn: ikwaiya aix+ p+ ane ik+ salchicha makuku m+n+ +k+.
+spa_Latn: Su lasaña es genial debido a la salchicha picante que usan.

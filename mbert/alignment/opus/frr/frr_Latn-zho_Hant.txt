@@ -1,0 +1,30 @@
+zho_Hant: 为什么大家都醒了？
+frr_Latn: Hurom sen ali waaken?
+
+zho_Hant: 他的工作是什么？
+frr_Latn: Wat es sin Hantiaring?
+
+zho_Hant: 村子很大，绿意盎然。
+frr_Latn: Dit Tērp es gurt en green.
+
+zho_Hant: 那么，你做了什么？
+frr_Latn: Wat heest dü alsoo maaket?
+
+zho_Hant: 朱莉娅想要飞往美国。
+frr_Latn: Julia wel tö Ameerika flö.
+
+zho_Hant: 你能把你的小刀给我吗？
+frr_Latn: Kenst dü mi din Fekknif dö?
+
+zho_Hant: 猫正在捉老鼠。
+frr_Latn: Di Kat fangt en Müs.
+
+zho_Hant: 他想买一条链子。
+frr_Latn: Hi wel en Keting koopi.
+
+zho_Hant: 马在草地上驰骋。
+frr_Latn: Di Hingst galopiaret aur Ingi.
+
+zho_Hant: 这些路通向哪里？
+frr_Latn: Hurhen föör des Waien?
+

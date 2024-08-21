@@ -1,0 +1,30 @@
+jpn_Jpan: 月曜日にスタンフォード大学医学部の科学者たちは、細胞を種類別に分類できる新しい診断ツールを発明したと発表しました。それは標準的なインクジェットプリンタで印刷して製造できる小型チップであり、原価は1枚あたり1円ほどす。
+crh_Latn: Bazartesi künü, Stanford Universiteti Tıp Fakultetinden alimler, üceyreni türlerine köre sıranen bilgen yañı bir diagnostika aletiniñ icadını: Er biri belki yaqlaşıq bir ABD tsenti içün standart mürekkep aqımlı printer qullanılıp yaratıla bilgen kiçik, yazdırıla bilir bir çip.
+
+jpn_Jpan: 主任研究者は、これは低所得国における患者の癌、結核、HIV、マラリアの早期発見につながる可能性があると述べます。こうした国では、乳がんなどの病気の生存率が豊かな国の半分になることもあるとされます。
+crh_Latn: Emiyetli araştırmacılar, bunıñ köküs rakı kibi hastalıqlar içün ayatta qalma fayızlarınıñ daa zengin ülkelerniñ yarısı qadar ola bileceği alçaq kelirli ülkelerdeki hastalarğa rak, tüberküloz, HIV ve sıtmanıñ erte safhasını tapa bilecegini ayta.
+
+jpn_Jpan: JAS 39Cグリペンは現地時間の午前9時30分頃（UTC 0230）に滑走路に墜落して爆発し、その影響で空港の商業便が閉鎖されました。
+crh_Latn: JAS 39C Gripen yerli saatnen saba 9:30 civarında (0230 UTC) bir uçuv-qonuv yolağında çarptı ve patlayaraq avaalanını ticariy uçuşlarğa qapattı.
+
+jpn_Jpan: 操縦士は中隊長のディロクリット・パタヴェー氏であることが確認されました。
+crh_Latn: Uçucu Eskadrilya Komandanı Dilokrit Pattavee olğanı belirlendi.
+
+jpn_Jpan: 地元メディアの報道によると、空港の消防車が対応中に横転したということです。
+crh_Latn: Yerli KHVında, bir avalimanı yanğın söndürici maşnaıñ qarşılığında çevirilgenini bildirile.
+
+jpn_Jpan: 28歳のビダル選手は、3シーズン前にセビージャから移籍してバルサに所属していました。
+crh_Latn: 28 yaşındaki Vidal, üç mevsim evel Sevilladan Barçağa qatılğan edi.
+
+jpn_Jpan: カタルーニャの州都に移って以来、ビダルはクラブで49試合に出場しました。
+crh_Latn: Katalan paytahtında taşınğanından berli Vidal, klup içün 49 maç oynağan edi.
+
+jpn_Jpan: 抗議行動は、現地時間11:00（UTC+1）頃にホワイトホール通りで始まり、首相官邸があるダウニング街の警察が警備する入口の向かいに群衆が集結しました。
+crh_Latn: Protesto, yerli saatle (UTC+1) Whitehallda, Baş Nazir resmiy barğağı Downing Streetniñ polis tarafından qorunğan kirişiniñ qarşısında başladı.
+
+jpn_Jpan: 11時すぎちょうどに抗議者たちはホワイトホールの北行き車両の交通を遮断しました。
+crh_Latn: Saat 11:00den birden, itirazıcılar Whitehalldaki şimalğa ketken trafikni qapattılar..
+
+jpn_Jpan: 11時20分になると、警察は抗議する権利と交通量のバランスを弁える必要があると告げて、抗議者たちに歩道に戻るように求めました。
+crh_Latn: Saat 11:20de polis, itiraz aqqı ile yetişken areketini muvazenet kerek olğanı belirterek itirazıcılardan qaldırımğa qaytarmasını istedi.
+

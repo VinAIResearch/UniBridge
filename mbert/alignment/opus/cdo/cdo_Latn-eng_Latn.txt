@@ -1,0 +1,29 @@
+eng_Latn: You come to be a guest.
+cdo_Latn: Nī-lāi gāu-kì bîng-i
+
+eng_Latn: I come to find you.
+cdo_Latn: Góa-lāi ka-lí
+
+eng_Latn: What do you want to eat?
+cdo_Latn: Ní-ài-sióng siáⁿ-mih
+
+eng_Latn: I like to eat meat.
+cdo_Latn: Góa-ài-sióng siáⁿ-kàu
+
+eng_Latn: Where do you want to go?
+cdo_Latn: Ní-ài-sióng khì-nāu
+
+eng_Latn: I like to go to the beach.
+cdo_Latn: Góa-ài-sióng khì-hái-piān
+
+eng_Latn: What do you want to watch?
+cdo_Latn: Ní-ài-sióng sióng-beh mih
+
+eng_Latn: I like to watch movies.
+cdo_Latn: Góa-ài-sióng sióng-beh diàn-siāⁿ
+
+eng_Latn: What can you speak?
+cdo_Latn: Ní-óng-bái mih
+
+eng_Latn: I can speak Min Dong.
+cdo_Latn: Góa-óng-bái Min-Dong-gí

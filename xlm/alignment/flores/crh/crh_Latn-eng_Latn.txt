@@ -1,0 +1,30 @@
+eng_Latn: On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+crh_Latn: Bazartesi künü, Stanford Universiteti Tıp Fakultetinden alimler, üceyreni türlerine köre sıranen bilgen yañı bir diagnostika aletiniñ icadını: Er biri belki yaqlaşıq bir ABD tsenti içün standart mürekkep aqımlı printer qullanılıp yaratıla bilgen kiçik, yazdırıla bilir bir çip.
+
+eng_Latn: Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+crh_Latn: Emiyetli araştırmacılar, bunıñ köküs rakı kibi hastalıqlar içün ayatta qalma fayızlarınıñ daa zengin ülkelerniñ yarısı qadar ola bileceği alçaq kelirli ülkelerdeki hastalarğa rak, tüberküloz, HIV ve sıtmanıñ erte safhasını tapa bilecegini ayta.
+
+eng_Latn: The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+crh_Latn: JAS 39C Gripen yerli saatnen saba 9:30 civarında (0230 UTC) bir uçuv-qonuv yolağında çarptı ve patlayaraq avaalanını ticariy uçuşlarğa qapattı.
+
+eng_Latn: The pilot was identified as Squadron Leader Dilokrit Pattavee.
+crh_Latn: Uçucu Eskadrilya Komandanı Dilokrit Pattavee olğanı belirlendi.
+
+eng_Latn: Local media reports an airport fire vehicle rolled over while responding.
+crh_Latn: Yerli KHVında, bir avalimanı yanğın söndürici maşnaıñ qarşılığında çevirilgenini bildirile.
+
+eng_Latn: 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+crh_Latn: 28 yaşındaki Vidal, üç mevsim evel Sevilladan Barçağa qatılğan edi.
+
+eng_Latn: Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+crh_Latn: Katalan paytahtında taşınğanından berli Vidal, klup içün 49 maç oynağan edi.
+
+eng_Latn: The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+crh_Latn: Protesto, yerli saatle (UTC+1) Whitehallda, Baş Nazir resmiy barğağı Downing Streetniñ polis tarafından qorunğan kirişiniñ qarşısında başladı.
+
+eng_Latn: Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+crh_Latn: Saat 11:00den birden, itirazıcılar Whitehalldaki şimalğa ketken trafikni qapattılar..
+
+eng_Latn: At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+crh_Latn: Saat 11:20de polis, itiraz aqqı ile yetişken areketini muvazenet kerek olğanı belirterek itirazıcılardan qaldırımğa qaytarmasını istedi.
+

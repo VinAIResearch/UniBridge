@@ -1,0 +1,30 @@
+arb_Arab: في يوم الاثنين، أعلن علماء من كلية الطب بجامعة ستانفورد عن اختراع أداة تشخيصية جديدة يمكنها تصنيف الخلايا حسب النوع: شريحة صغيرة قابلة للطباعة يمكن تصنيعها باستخدام طابعات نفاثة للحبر قياسية مقابل حوالي سنت أمريكي واحد لكل منها.
+som_Latn: Maalinta Isniinta, saynis yahano ka socda Jamacada Stanford ee Iskuul Caafimadka waxay ku dhawaaqeen sameynta qalab daweyn cusub lagu habeyn karo unugyada : kuwa yar yar ee lagu soo saari karo muditan waxaana macquul ah in lagu soo saro Mareykan ka mid walba.
+
+arb_Arab: يقول الباحثون الرئيسيون أن هذا قد يؤدي إلى الكشف المبكر للسرطان والسل وفيروس العوز المناعي البشري والملاريا في البلدان ذوات الدخل المنخفض، والتي تكون فيها معدلات النجاة من الأمراض مثل سرطان الصدر نصف معدلات البلدان الأغنى.
+som_Latn: Hogaamiyaasha cilmi barista waxay sheegen tani in ay hor seedi karto lagu ogaan karo xanuunka kansarka, xanuunka sanbabada HIV ga iyo bukaanada duumadawadama dhaqaalahooda hooseya, halkaas oo ay heerka samata baxa xanuunada sida kansarka ku dhaca nasaha taaso u dhigmeysa qeyb un marka loo barbar dhigo wadamada qaniga ah.
+
+arb_Arab: تحطمت طائرة جاس-٣٩ غربين على مدرج في حوالي الساعة ٩:٣٠ صباحاً بالتوقيت المحلي (٠٢٣٠ التوقيت العالمي الموحّد) وانفجرت، مما أدى إلى إغلاق المطار أمام الرحلات الجوية التجارية.
+som_Latn: JAS 39C Gripen ayaa ku dhacday dhabbada diyaaradaha abbaaro 9:30 waqtiga maxalliga ah (0230 UTC) oo qaraxday, taasoo madaarka ka xirtay duulimaadada ganacsiga.
+
+arb_Arab: تم التعرف على هوية الطيار وهي "ديلوكريت باتافي" قائد سرب الطائرات.
+som_Latn: Bayloodka waxaa lagu suntay hogaamiyaha Dilokrit Pattavee.
+
+arb_Arab: أعلنت وسائل الإعلام المحلية عن انقلاب إحدى سيارات الإطفاء أثناء توجهها لإطفاء الحريق.
+som_Latn: Warbixinada deegaaneed ayaa sheegaayo in baabuurka dab damiska garoonka diyaarada uu gadoomay intuu u socday meesha.
+
+arb_Arab: انضم فيدال والذي يبلغ من العمر 28 عاماً إلى نادي برشلونة قبل ثلاثة مواسم، قادماً من نادي إشبيلية.
+som_Latn: 28 sannadood jirka Fiidal ayaa ku biiray Barsa saddex xilli ciyaareed ka hor, isagoo ka yimi Seffiila.
+
+arb_Arab: منذ الانتقال إلى العاصمة الكتالونية، لعب فيدال 49 مباراة للنادي.
+som_Latn: Ka dib intuu u guuray caasimadda Catalan, Vidal ayaa kooxda u ciyaaray 49 ciyaar.
+
+arb_Arab: بدأ الاحتجاج حوالي الساعة 11:00 بالتوقيت المحلي (UTC+1) في "وايتهول" في الاتجاه المقابل لشارع "داونينج" الذي تحرسه الشرطة وهو المقر الرسمي لرئيس الوزراء.
+som_Latn: Dibad baxa wuxuu bilaabmay ilaa sacaada marka ay aheyd 11:00 (UTC+1) ka soo horjeedka Whitehall meelaha ay ilaaliyaan askarta Downing Street, ee Reesal Wasaraha rasmiga ee degan halka.
+
+arb_Arab: بعد الساعة 11:00 بقليل، قطع المتظاهرون حركة المرور في الطريق المتجه شمالاً في وايتهول.
+som_Latn: Waxyar 11:00 ka dib, mudaharaadayaal ayaa xanibay baabuurta waqooyi u socda ee Whitehall.
+
+arb_Arab: طلبت الشرطة عند الساعة 11:20 من المحتجين العودة إلى الرصيف، مبينّة أنه يجب عليهم الموازنة بين الحق في التظاهر مع ازدياد الحركة المرورية.
+som_Latn: Markay ahayd 11:20, booliisku waxay ka codsadeen mudaaharaadayaasha inay dib ugu noqdaan waddada laamiga, iyaga oo sheegay inay u baahan yihiin isku dheelitiranka xaqa ay u leeyihin mudaaharadka iyo saxmadda taraafigga ee dhismaysa.
+

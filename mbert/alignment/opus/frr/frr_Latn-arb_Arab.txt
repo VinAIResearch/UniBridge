@@ -1,0 +1,30 @@
+arb_Arab: لماذا الجميع مستيقظ؟
+frr_Latn: Hurom sen ali waaken?
+
+arb_Arab: ما هي وظيفته؟
+frr_Latn: Wat es sin Hantiaring?
+
+arb_Arab: القرية كبيرة وخضراء.
+frr_Latn: Dit Tērp es gurt en green.
+
+arb_Arab: إذن، ماذا فعلت؟
+frr_Latn: Wat heest dü alsoo maaket?
+
+arb_Arab: جوليا تريد السفر إلى أمريكا.
+frr_Latn: Julia wel tö Ameerika flö.
+
+arb_Arab: هل يمكنك أن تعطيني سكين جيبك؟
+frr_Latn: Kenst dü mi din Fekknif dö?
+
+arb_Arab: القطة تصطاد فأراً.
+frr_Latn: Di Kat fangt en Müs.
+
+arb_Arab: يريد شراء سلسلة.
+frr_Latn: Hi wel en Keting koopi.
+
+arb_Arab: الحصان يركض فوق المرج.
+frr_Latn: Di Hingst galopiaret aur Ingi.
+
+arb_Arab: وإلى أين تؤدي هذه الطرق؟
+frr_Latn: Hurhen föör des Waien?
+

@@ -1,0 +1,30 @@
+zho_Hant: 他还是 Adel Productions 公司的制片人，并执导了两部电影。
+olo_Latn: Hän on houkutellut yli 134 miljoonaa ihmistä elokuvateatteriin, ja hän on yksi arvostetuimmista ja kuuluisimmista näyttelijöistä Euroopassa. 
+
+zho_Hant: 它位于沃鲁兹耶尔维湖的东北岸，距离奥洛涅茨镇 65 公里。
+olo_Latn: Se sijoittuu Voruzjärven koillisrannal, 65 kilometrin piäs Anuksespäi koillizeh. 
+
+zho_Hant: 在 19 世纪，它被称为 Reboinselgy，属于奥洛涅茨省的奥洛涅茨县。
+olo_Latn: XIX vuozisual tädä kyliä kučuttih Reboinselgy (Lisja Sel’gä), kudai kuului Kotkatjärven voulostih Anuksen ujezdah. 
+
+zho_Hant: 在第二次俄芬战争（1941 - 1944）期间，该镇几乎被摧毁，战后为森林工人建造了房屋
+olo_Latn: Konzu voinu Nevvostoliiton da Suomen välis (1941 – 1944) loppui, rakendettih mečänruadajien pos’olku. 
+
+zho_Hant: 2009年，一座供奉彼得罗扎沃茨克圣撒迪厄斯的东正教教堂建成。
+olo_Latn: Vuonnu 2009 rakendettih pravosluavnoi kirikkö (ven. православный храм во имя святого блаженного Фаддея Петрозаводского). 
+
+zho_Hant: 1959年，该地区有900名居民。
+olo_Latn: Vuonnu 1959 pos’olkas eli 900 hengie. 
+
+zho_Hant: 金日成（1912-1994）是朝鲜民主主义人民共和国的第一任领导人
+olo_Latn: Kim Il-sung (1912-1994) oli North Korea muan prezidentu. 
+
+zho_Hant: 阿夫内波罗格（Avneporog）是卡累利阿共和国凯姆区克里沃波罗兹村定居点内的一个村庄。
+olo_Latn: Авнепорог on Karjalan tazavallan Kemin piirin Viärykosken kyläkunnan pos’olku. 
+
+zho_Hant: 霍尔马特·纳莫佐维奇·奥迪洛夫（Kholmat Namozovich Odilov）（塔吉克斯坦语：2004年9月28日出生于乌兹别克斯坦卡什卡达里亚地区格隆）是一位俄罗斯歌手、音乐家、制作人、创作歌手。音乐厂牌“A.S.MusicX Group”创始人。
+olo_Latn: Kholmat Namozovich Odilov (tadžikistan: , 28. syyskuuta 2004, Gelon, Kashkadaryan alue, Uzbekistan) on venäläinen laulaja, muusikko, tuottaja, laulaja-säveltäjä. A.S.MusicX Group -levy-yhtiön perustaja.
+
+zho_Hant: 人口统计
+olo_Latn: Rahvahan lugumiäry 
+

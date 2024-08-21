@@ -1,0 +1,30 @@
+zho_Hant: A’líko, bilé mili waminá malí cent pakótami si napawíli, echoná ne si bakíli.
+tar_Latn: y, mmm..., fueron dos mil quinientas personas cuando me uní y, mmm...
+
+zho_Hant: Ke mu kalé je'náa ni bonói machi。
+tar_Latn: Sé que no estás obsesionado con esto.
+
+zho_Hant: A ne machi chu oláne risóa iníli, nalí tási ne mi ruyénali。
+tar_Latn: Creo que sé por qué no me siento bien, pero no quiero decírtelo.
+
+zho_Hant: Echi ko bilé rejói 希腊语 ju，tasi ra’ícha 英语。
+tar_Latn: Él es un hombre griego que no habla inglés.
+
+zho_Hant: Échi Becky rewéami ko tási namúti newalé。
+tar_Latn: A Becky no le importa para nada.
+
+zho_Hant: Ne a'lá sébali ga'labé ni niwáki。
+tar_Latn: Lo hice sin cometer ningún error.
+
+zho_Hant: Uché wekáta newalé bilé 100 mili, echikíta napabúba jípi bamíbali。
+tar_Latn: Necesitamos $100.000 más para realizar nuestras cuotas de recaudación de fondos de esta temporada.
+
+zho_Hant: Ke ni kaléli mapu iyíri ju。
+tar_Latn: No era fanático suyo.
+
+zho_Hant: 如果您没有任何帮助，请不要打扰您。
+tar_Latn: No quiero entrar en la Tercera SS que es el Tercer Escuadrón de Apoyo Estratégico.
+
+zho_Hant: tási ne ko’á ko’wáami reyáwi siyónami nati newáraami, áji cha chijunti！
+tar_Latn: ¡Nunca como ensalada, qué asco!
+

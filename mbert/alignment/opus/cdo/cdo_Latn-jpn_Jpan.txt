@@ -1,0 +1,30 @@
+jpn_Jpan: あなたはゲストとして来ます。
+cdo_Latn: Nī-lāi gāu-kì bîng-i
+
+jpn_Jpan: あなたを探しに来ました。
+cdo_Latn: Góa-lāi ka-lí
+
+jpn_Jpan: あなたは何を食べたいですか？
+cdo_Latn: Ní-ài-sióng siáⁿ-mih
+
+jpn_Jpan: 私は肉を食べるのが好きです。
+cdo_Latn: Góa-ài-sióng siáⁿ-kàu
+
+jpn_Jpan: どこへ行きたい？
+cdo_Latn: Ní-ài-sióng khì-nāu
+
+jpn_Jpan: ビーチに行くことが好きです。
+cdo_Latn: Góa-ài-sióng khì-hái-piān
+
+jpn_Jpan: 何を見たいですか？
+cdo_Latn: Ní-ài-sióng sióng-beh mih
+
+jpn_Jpan: 私は映画を見るのが好きです。
+cdo_Latn: Góa-ài-sióng sióng-beh diàn-siāⁿ
+
+jpn_Jpan: 何を話せますか？
+cdo_Latn: Ní-óng-bái mih
+
+jpn_Jpan: 私は閩東語を話せます。
+cdo_Latn: Góa-óng-bái Min-Dong-gí
+
