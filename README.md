@@ -4,7 +4,7 @@
 
 ![Detail architecture of UniBridge](image/unibridge_overview.png)
 
-Details of the model architecture and experimental results can be found in [our following paper](https://aclanthology.org/2024.acl-long.174/).
+Details of the model architecture and experimental results can be found in [our following paper](https://arxiv.org/abs/2406.09717).
 
 Please CITE our paper whenever this repository is used to help produce published results or incorporated into other software.
 
